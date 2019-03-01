@@ -1,0 +1,444 @@
+2019-03-01 09:16:31,322 INFO [AUTO-DELETE-IP] dom: microservice-account, ip: {"app":"DEFAULT","clusterName":"DEFAULT","enabled":true,"instanceId":"172.25.1.113#8181#DEFAULT#microservice-account","ip":"172.25.1.113","lastBeat":1551352724141,"marked":false,"metadata":{},"port":8181,"serviceName":"microservice-account","tenant":"","valid":false,"weight":1}
+
+2019-03-01 09:16:39,168 WARN server beat out of date, current: {"adWeight":0,"alive":true,"ip":"192.168.192.1:8848","lastRefTime":1551402999159,"lastRefTimeStr":"2019-03-01 09:16:39","site":"unknown","weight":2}, last: {"adWeight":0,"alive":false,"ip":"192.168.192.1:8848","lastRefTime":1551352736714,"lastRefTimeStr":"2019-02-28 19:18:56","site":"unknown","weight":2}
+
+2019-03-01 09:16:40,167 INFO [HEALTH-CHECK] health check is true
+
+2019-03-01 09:21:40,171 INFO [HEALTH-CHECK] health check is true
+
+2019-03-01 09:26:40,172 INFO [HEALTH-CHECK] health check is true
+
+2019-03-01 09:31:40,174 INFO [HEALTH-CHECK] health check is true
+
+2019-03-01 09:36:40,176 INFO [HEALTH-CHECK] health check is true
+
+2019-03-01 09:41:40,176 INFO [HEALTH-CHECK] health check is true
+
+2019-03-01 09:46:40,178 INFO [HEALTH-CHECK] health check is true
+
+2019-03-01 09:51:40,180 INFO [HEALTH-CHECK] health check is true
+
+2019-03-01 09:56:40,181 INFO [HEALTH-CHECK] health check is true
+
+2019-03-01 10:01:40,182 INFO [HEALTH-CHECK] health check is true
+
+2019-03-01 10:06:40,184 INFO [HEALTH-CHECK] health check is true
+
+2019-03-01 10:11:40,187 INFO [HEALTH-CHECK] health check is true
+
+2019-03-01 10:16:40,189 INFO [HEALTH-CHECK] health check is true
+
+2019-03-01 10:21:40,192 INFO [HEALTH-CHECK] health check is true
+
+2019-03-01 10:26:40,194 INFO [HEALTH-CHECK] health check is true
+
+2019-03-01 10:31:40,195 INFO [HEALTH-CHECK] health check is true
+
+2019-03-01 10:36:40,198 INFO [HEALTH-CHECK] health check is true
+
+2019-03-01 10:41:40,200 INFO [HEALTH-CHECK] health check is true
+
+2019-03-01 10:46:40,204 INFO [HEALTH-CHECK] health check is true
+
+2019-03-01 10:51:40,206 INFO [HEALTH-CHECK] health check is true
+
+2019-03-01 10:56:40,209 INFO [HEALTH-CHECK] health check is true
+
+2019-03-01 11:01:40,211 INFO [HEALTH-CHECK] health check is true
+
+2019-03-01 11:06:40,211 INFO [HEALTH-CHECK] health check is true
+
+2019-03-01 11:11:40,215 INFO [HEALTH-CHECK] health check is true
+
+2019-03-01 11:16:40,217 INFO [HEALTH-CHECK] health check is true
+
+2019-03-01 11:21:40,220 INFO [HEALTH-CHECK] health check is true
+
+2019-03-01 11:26:40,221 INFO [HEALTH-CHECK] health check is true
+
+2019-03-01 11:31:40,223 INFO [HEALTH-CHECK] health check is true
+
+2019-03-01 11:36:40,223 INFO [HEALTH-CHECK] health check is true
+
+2019-03-01 11:41:40,225 INFO [HEALTH-CHECK] health check is true
+
+2019-03-01 11:46:40,227 INFO [HEALTH-CHECK] health check is true
+
+2019-03-01 11:51:40,228 INFO [HEALTH-CHECK] health check is true
+
+2019-03-01 11:56:40,229 INFO [HEALTH-CHECK] health check is true
+
+2019-03-01 12:01:40,231 INFO [HEALTH-CHECK] health check is true
+
+2019-03-01 12:06:40,232 INFO [HEALTH-CHECK] health check is true
+
+2019-03-01 12:11:40,237 INFO [HEALTH-CHECK] health check is true
+
+2019-03-01 12:16:40,238 INFO [HEALTH-CHECK] health check is true
+
+2019-03-01 12:21:40,264 INFO [HEALTH-CHECK] health check is true
+
+2019-03-01 12:26:40,276 INFO [HEALTH-CHECK] health check is true
+
+2019-03-01 12:31:40,277 INFO [HEALTH-CHECK] health check is true
+
+2019-03-01 12:36:40,279 INFO [HEALTH-CHECK] health check is true
+
+2019-03-01 12:41:40,280 INFO [HEALTH-CHECK] health check is true
+
+2019-03-01 12:46:40,283 INFO [HEALTH-CHECK] health check is true
+
+2019-03-01 12:51:40,420 INFO [HEALTH-CHECK] health check is true
+
+2019-03-01 12:56:40,421 INFO [HEALTH-CHECK] health check is true
+
+2019-03-01 13:01:40,423 INFO [HEALTH-CHECK] health check is true
+
+2019-03-01 13:06:40,424 INFO [HEALTH-CHECK] health check is true
+
+2019-03-01 13:11:40,425 INFO [HEALTH-CHECK] health check is true
+
+2019-03-01 13:16:40,427 INFO [HEALTH-CHECK] health check is true
+
+2019-03-01 13:21:40,429 INFO [HEALTH-CHECK] health check is true
+
+2019-03-01 13:26:40,430 INFO [HEALTH-CHECK] health check is true
+
+2019-03-01 13:31:40,432 INFO [HEALTH-CHECK] health check is true
+
+2019-03-01 13:36:40,434 INFO [HEALTH-CHECK] health check is true
+
+2019-03-01 13:41:40,436 INFO [HEALTH-CHECK] health check is true
+
+2019-03-01 13:46:40,437 INFO [HEALTH-CHECK] health check is true
+
+2019-03-01 13:51:40,440 INFO [HEALTH-CHECK] health check is true
+
+2019-03-01 13:56:40,442 INFO [HEALTH-CHECK] health check is true
+
+2019-03-01 14:01:40,443 INFO [HEALTH-CHECK] health check is true
+
+2019-03-01 14:06:40,445 INFO [HEALTH-CHECK] health check is true
+
+2019-03-01 14:10:10,618 INFO [AUTO-DELETE-IP] dom: microservice-account, ip: {"app":"DEFAULT","clusterName":"DEFAULT","enabled":true,"instanceId":"172.25.1.113#8181#DEFAULT#microservice-account","ip":"172.25.1.113","lastBeat":1551420578670,"marked":false,"metadata":{},"port":8181,"serviceName":"microservice-account","tenant":"","valid":false,"weight":1}
+
+2019-03-01 14:11:40,448 INFO [HEALTH-CHECK] health check is true
+
+2019-03-01 14:16:40,450 INFO [HEALTH-CHECK] health check is true
+
+2019-03-01 14:21:40,452 INFO [HEALTH-CHECK] health check is true
+
+2019-03-01 14:26:40,453 INFO [HEALTH-CHECK] health check is true
+
+2019-03-01 14:31:40,455 INFO [HEALTH-CHECK] health check is true
+
+2019-03-01 14:36:40,456 INFO [HEALTH-CHECK] health check is true
+
+2019-03-01 14:41:40,458 INFO [HEALTH-CHECK] health check is true
+
+2019-03-01 14:46:40,460 INFO [HEALTH-CHECK] health check is true
+
+2019-03-01 14:51:40,461 INFO [HEALTH-CHECK] health check is true
+
+2019-03-01 14:56:40,463 INFO [HEALTH-CHECK] health check is true
+
+2019-03-01 15:01:40,464 INFO [HEALTH-CHECK] health check is true
+
+2019-03-01 15:06:40,466 INFO [HEALTH-CHECK] health check is true
+
+2019-03-01 15:11:40,468 INFO [HEALTH-CHECK] health check is true
+
+2019-03-01 15:16:40,470 INFO [HEALTH-CHECK] health check is true
+
+2019-03-01 15:21:40,472 INFO [HEALTH-CHECK] health check is true
+
+2019-03-01 15:26:40,475 INFO [HEALTH-CHECK] health check is true
+
+2019-03-01 15:31:40,476 INFO [HEALTH-CHECK] health check is true
+
+2019-03-01 15:36:40,478 INFO [HEALTH-CHECK] health check is true
+
+2019-03-01 15:41:40,480 INFO [HEALTH-CHECK] health check is true
+
+2019-03-01 15:41:41,792 INFO [AUTO-DELETE-IP] dom: microservice-account, ip: {"app":"DEFAULT","clusterName":"DEFAULT","enabled":true,"instanceId":"172.25.1.113#8181#DEFAULT#microservice-account","ip":"172.25.1.113","lastBeat":1551426068186,"marked":false,"metadata":{},"port":8181,"serviceName":"microservice-account","tenant":"","valid":false,"weight":1}
+
+2019-03-01 15:42:51,847 INFO [AUTO-DELETE-IP] dom: microservice-account, ip: {"app":"DEFAULT","clusterName":"DEFAULT","enabled":true,"instanceId":"172.25.1.113#8181#DEFAULT#microservice-account","ip":"172.25.1.113","lastBeat":1551426138137,"marked":false,"metadata":{},"port":8181,"serviceName":"microservice-account","tenant":"","valid":false,"weight":1}
+
+2019-03-01 15:46:40,481 INFO [HEALTH-CHECK] health check is true
+
+2019-03-01 15:51:40,484 INFO [HEALTH-CHECK] health check is true
+
+2019-03-01 15:53:52,614 INFO [VIPSRV-DISTRO] healthy server list changed, disable health check for 60000 ms from now on, healthList: [], newHealthyList [192.168.192.1:0]
+
+2019-03-01 15:53:57,743 ERROR [AUTO-INIT] failed to auto init
+
+java.lang.IllegalStateException: unable to find local peer: 192.168.192.1:0, all peers: []
+	at com.alibaba.nacos.naming.raft.PeerSet.local(PeerSet.java:191)
+	at com.alibaba.nacos.naming.raft.PeerSet.getLeader(PeerSet.java:49)
+	at com.alibaba.nacos.naming.core.DomainsManager.initConfig(DomainsManager.java:100)
+	at com.alibaba.nacos.naming.core.DomainsManager.access$500(DomainsManager.java:44)
+	at com.alibaba.nacos.naming.core.DomainsManager$3.run(DomainsManager.java:607)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.access$201(ScheduledThreadPoolExecutor.java:180)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:293)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+2019-03-01 15:54:02,751 ERROR [AUTO-INIT] failed to auto init
+
+java.lang.IllegalStateException: unable to find local peer: 192.168.192.1:0, all peers: []
+	at com.alibaba.nacos.naming.raft.PeerSet.local(PeerSet.java:191)
+	at com.alibaba.nacos.naming.raft.PeerSet.getLeader(PeerSet.java:49)
+	at com.alibaba.nacos.naming.core.DomainsManager.initConfig(DomainsManager.java:100)
+	at com.alibaba.nacos.naming.core.DomainsManager.access$500(DomainsManager.java:44)
+	at com.alibaba.nacos.naming.core.DomainsManager$3.run(DomainsManager.java:607)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.access$201(ScheduledThreadPoolExecutor.java:180)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:293)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+2019-03-01 15:54:03,826 INFO [SERVER-INIT] got port: 8848
+
+2019-03-01 15:54:03,826 INFO [SERVER-INIT] got path: /nacos
+
+2019-03-01 15:54:04,007 INFO [NEW-DOM-RAFT] {"checksum":"18ea7e37ca8054c8b1c039ca3e583d7d","clusterMap":{"DEFAULT":{"defCkport":80,"defIPPort":80,"defaultCheckPort":80,"defaultPort":80,"healthCheckTask":{"cancelled":false,"checkRTBest":9223372036854775807,"checkRTLast":-1,"checkRTLastLast":-1,"checkRTNormalized":4122,"checkRTWorst":0,"cluster":{"$ref":".."},"startTime":1551426843932},"healthChecker":{"type":"TCP"},"metadata":{},"name":"DEFAULT","nodegroup":"","serviceName":"","sitegroup":"","submask":"0.0.0.0/0","syncKey":"","useIPPort4Check":true}},"enableClientBeat":true,"enableHealthCheck":false,"enabled":true,"ipDeleteTimeout":30000,"lastModifiedMillis":1551351625467,"metadata":{},"name":"microservice-account","namespaceId":"public","owners":[""],"protectThreshold":0,"resetWeight":false,"selector":{"type":"none"},"token":"b082e420699e643eb7b1f7680b4c905e","useSpecifiedURL":false}
+
+2019-03-01 15:54:04,292 WARN [NACOS-DOM] received empty iplist config for dom: microservice-account
+
+2019-03-01 15:54:04,294 WARN ip not found, register it, dom: microservice-account, ip: 172.25.1.113:8181:unknown_1.0_true_false_DEFAULT
+
+2019-03-01 15:54:07,753 INFO [AUTO-INIT] leader is: 192.168.192.1:8848
+
+2019-03-01 15:54:08,569 INFO [REFRESH-SERVER-SITE] server list is changed, old: [], new: [192.168.192.1:8848]
+
+2019-03-01 15:54:30,811 INFO [HEALTH-CHECK] health check is false
+
+2019-03-01 15:54:52,736 INFO [VIPSRV-DISTRO] distro threshold restored and stable now, enable health check. current ratio: 1.0
+
+2019-03-01 15:54:52,736 INFO [VIPSRV-DISTRO] healthy server list changed, disable health check for 60000 ms from now on
+
+2019-03-01 15:55:52,742 INFO [VIPSRV-DISTRO] distro threshold restored and stable now, enable health check. current ratio: 1.0
+
+2019-03-01 15:59:30,814 INFO [HEALTH-CHECK] health check is true
+
+2019-03-01 16:04:30,816 INFO [HEALTH-CHECK] health check is true
+
+2019-03-01 16:07:18,056 INFO [VIPSRV-DISTRO] healthy server list changed, disable health check for 60000 ms from now on, healthList: [], newHealthyList [192.168.192.1:0]
+
+2019-03-01 16:07:23,189 ERROR [AUTO-INIT] failed to auto init
+
+java.lang.IllegalStateException: unable to find local peer: 192.168.192.1:0, all peers: []
+	at com.alibaba.nacos.naming.raft.PeerSet.local(PeerSet.java:191)
+	at com.alibaba.nacos.naming.raft.PeerSet.getLeader(PeerSet.java:49)
+	at com.alibaba.nacos.naming.core.DomainsManager.initConfig(DomainsManager.java:100)
+	at com.alibaba.nacos.naming.core.DomainsManager.access$500(DomainsManager.java:44)
+	at com.alibaba.nacos.naming.core.DomainsManager$3.run(DomainsManager.java:607)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.access$201(ScheduledThreadPoolExecutor.java:180)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:293)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+2019-03-01 16:07:27,732 INFO [SERVER-INIT] got port: 8848
+
+2019-03-01 16:07:27,732 INFO [SERVER-INIT] got path: /nacos
+
+2019-03-01 16:07:27,938 INFO [NEW-DOM-RAFT] {"checksum":"18ea7e37ca8054c8b1c039ca3e583d7d","clusterMap":{"DEFAULT":{"defCkport":80,"defIPPort":80,"defaultCheckPort":80,"defaultPort":80,"healthCheckTask":{"cancelled":false,"checkRTBest":9223372036854775807,"checkRTLast":-1,"checkRTLastLast":-1,"checkRTNormalized":2907,"checkRTWorst":0,"cluster":{"$ref":".."},"startTime":1551427647891},"healthChecker":{"type":"TCP"},"metadata":{},"name":"DEFAULT","nodegroup":"","serviceName":"","sitegroup":"","submask":"0.0.0.0/0","syncKey":"","useIPPort4Check":true}},"enableClientBeat":true,"enableHealthCheck":false,"enabled":true,"ipDeleteTimeout":30000,"lastModifiedMillis":1551351625467,"metadata":{},"name":"microservice-account","namespaceId":"public","owners":[""],"protectThreshold":0,"resetWeight":false,"selector":{"type":"none"},"token":"b082e420699e643eb7b1f7680b4c905e","useSpecifiedURL":false}
+
+2019-03-01 16:07:28,189 INFO [AUTO-INIT] leader is: 192.168.192.1:8848
+
+2019-03-01 16:07:29,245 WARN [NACOS-DOM] received empty iplist config for dom: microservice-account
+
+2019-03-01 16:07:29,246 WARN ip not found, register it, dom: microservice-account, ip: 172.25.1.113:8181:unknown_1.0_true_false_DEFAULT
+
+2019-03-01 16:07:31,317 INFO [REFRESH-SERVER-SITE] server list is changed, old: [], new: [192.168.192.1:8848]
+
+2019-03-01 16:07:53,685 INFO [HEALTH-CHECK] health check is false
+
+2019-03-01 16:08:18,174 INFO [VIPSRV-DISTRO] distro threshold restored and stable now, enable health check. current ratio: 1.0
+
+2019-03-01 16:08:18,174 INFO [VIPSRV-DISTRO] healthy server list changed, disable health check for 60000 ms from now on
+
+2019-03-01 16:09:18,180 INFO [VIPSRV-DISTRO] distro threshold restored and stable now, enable health check. current ratio: 1.0
+
+2019-03-01 16:12:53,690 INFO [HEALTH-CHECK] health check is true
+
+2019-03-01 16:15:11,510 INFO [VIPSRV-DISTRO] healthy server list changed, disable health check for 60000 ms from now on, healthList: [], newHealthyList [192.168.192.1:0]
+
+2019-03-01 16:15:16,057 INFO [SERVER-INIT] got port: 8848
+
+2019-03-01 16:15:16,057 INFO [SERVER-INIT] got path: /nacos
+
+2019-03-01 16:15:16,359 INFO [NEW-DOM-RAFT] {"checksum":"18ea7e37ca8054c8b1c039ca3e583d7d","clusterMap":{"DEFAULT":{"defCkport":80,"defIPPort":80,"defaultCheckPort":80,"defaultPort":80,"healthCheckTask":{"cancelled":false,"checkRTBest":9223372036854775807,"checkRTLast":-1,"checkRTLastLast":-1,"checkRTNormalized":2009,"checkRTWorst":0,"cluster":{"$ref":".."},"startTime":1551428116268},"healthChecker":{"type":"TCP"},"metadata":{},"name":"DEFAULT","nodegroup":"","serviceName":"","sitegroup":"","submask":"0.0.0.0/0","syncKey":"","useIPPort4Check":true}},"enableClientBeat":true,"enableHealthCheck":false,"enabled":true,"ipDeleteTimeout":30000,"lastModifiedMillis":1551351625467,"metadata":{},"name":"microservice-account","namespaceId":"public","owners":[""],"protectThreshold":0,"resetWeight":false,"selector":{"type":"none"},"token":"b082e420699e643eb7b1f7680b4c905e","useSpecifiedURL":false}
+
+2019-03-01 16:15:16,663 INFO [AUTO-INIT] leader is: 192.168.192.1:8848
+
+2019-03-01 16:15:18,783 INFO [REFRESH-SERVER-SITE] server list is changed, old: [], new: [192.168.192.1:8848]
+
+2019-03-01 16:15:19,249 WARN [NACOS-DOM] received empty iplist config for dom: microservice-account
+
+2019-03-01 16:15:19,250 WARN ip not found, register it, dom: microservice-account, ip: 172.25.1.113:8181:unknown_1.0_true_false_DEFAULT
+
+2019-03-01 16:15:44,294 INFO [HEALTH-CHECK] health check is false
+
+2019-03-01 16:16:11,630 INFO [VIPSRV-DISTRO] distro threshold restored and stable now, enable health check. current ratio: 1.0
+
+2019-03-01 16:16:11,630 INFO [VIPSRV-DISTRO] healthy server list changed, disable health check for 60000 ms from now on
+
+2019-03-01 16:17:11,637 INFO [VIPSRV-DISTRO] distro threshold restored and stable now, enable health check. current ratio: 1.0
+
+2019-03-01 16:20:44,297 INFO [HEALTH-CHECK] health check is true
+
+2019-03-01 16:21:59,375 INFO [VIPSRV-DISTRO] healthy server list changed, disable health check for 60000 ms from now on, healthList: [], newHealthyList [192.168.192.1:0]
+
+2019-03-01 16:22:03,647 INFO [SERVER-INIT] got port: 8848
+
+2019-03-01 16:22:03,649 INFO [SERVER-INIT] got path: /nacos
+
+2019-03-01 16:22:03,795 INFO [NEW-DOM-RAFT] {"checksum":"18ea7e37ca8054c8b1c039ca3e583d7d","clusterMap":{"DEFAULT":{"defCkport":80,"defIPPort":80,"defaultCheckPort":80,"defaultPort":80,"healthCheckTask":{"cancelled":false,"checkRTBest":9223372036854775807,"checkRTLast":-1,"checkRTLastLast":-1,"checkRTNormalized":5422,"checkRTWorst":0,"cluster":{"$ref":".."},"startTime":1551428523762},"healthChecker":{"type":"TCP"},"metadata":{},"name":"DEFAULT","nodegroup":"","serviceName":"","sitegroup":"","submask":"0.0.0.0/0","syncKey":"","useIPPort4Check":true}},"enableClientBeat":true,"enableHealthCheck":false,"enabled":true,"ipDeleteTimeout":30000,"lastModifiedMillis":1551351625467,"metadata":{},"name":"microservice-account","namespaceId":"public","owners":[""],"protectThreshold":0,"resetWeight":false,"selector":{"type":"none"},"token":"b082e420699e643eb7b1f7680b4c905e","useSpecifiedURL":false}
+
+2019-03-01 16:22:04,284 WARN [NACOS-DOM] received empty iplist config for dom: microservice-account
+
+2019-03-01 16:22:04,285 WARN ip not found, register it, dom: microservice-account, ip: 172.25.1.113:8181:unknown_1.0_true_false_DEFAULT
+
+2019-03-01 16:22:04,504 INFO [AUTO-INIT] leader is: 192.168.192.1:8848
+
+2019-03-01 16:22:09,690 INFO [REFRESH-SERVER-SITE] server list is changed, old: [], new: [192.168.192.1:8848]
+
+2019-03-01 16:22:31,994 INFO [HEALTH-CHECK] health check is false
+
+2019-03-01 16:22:59,503 INFO [VIPSRV-DISTRO] distro threshold restored and stable now, enable health check. current ratio: 1.0
+
+2019-03-01 16:22:59,503 INFO [VIPSRV-DISTRO] healthy server list changed, disable health check for 60000 ms from now on
+
+2019-03-01 16:24:49,924 INFO [VIPSRV-DISTRO] healthy server list changed, disable health check for 60000 ms from now on, healthList: [], newHealthyList [192.168.192.1:0]
+
+2019-03-01 16:24:55,127 ERROR [AUTO-INIT] failed to auto init
+
+java.lang.IllegalStateException: unable to find local peer: 192.168.192.1:0, all peers: []
+	at com.alibaba.nacos.naming.raft.PeerSet.local(PeerSet.java:191)
+	at com.alibaba.nacos.naming.raft.PeerSet.getLeader(PeerSet.java:49)
+	at com.alibaba.nacos.naming.core.DomainsManager.initConfig(DomainsManager.java:100)
+	at com.alibaba.nacos.naming.core.DomainsManager.access$500(DomainsManager.java:44)
+	at com.alibaba.nacos.naming.core.DomainsManager$3.run(DomainsManager.java:607)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.access$201(ScheduledThreadPoolExecutor.java:180)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:293)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+2019-03-01 16:24:56,214 INFO [SERVER-INIT] got port: 8848
+
+2019-03-01 16:24:56,215 INFO [SERVER-INIT] got path: /nacos
+
+2019-03-01 16:24:56,531 INFO [NEW-DOM-RAFT] {"checksum":"18ea7e37ca8054c8b1c039ca3e583d7d","clusterMap":{"DEFAULT":{"defCkport":80,"defIPPort":80,"defaultCheckPort":80,"defaultPort":80,"healthCheckTask":{"cancelled":false,"checkRTBest":9223372036854775807,"checkRTLast":-1,"checkRTLastLast":-1,"checkRTNormalized":4711,"checkRTWorst":0,"cluster":{"$ref":".."},"startTime":1551428696471},"healthChecker":{"type":"TCP"},"metadata":{},"name":"DEFAULT","nodegroup":"","serviceName":"","sitegroup":"","submask":"0.0.0.0/0","syncKey":"","useIPPort4Check":true}},"enableClientBeat":true,"enableHealthCheck":false,"enabled":true,"ipDeleteTimeout":30000,"lastModifiedMillis":1551351625467,"metadata":{},"name":"microservice-account","namespaceId":"public","owners":[""],"protectThreshold":0,"resetWeight":false,"selector":{"type":"none"},"token":"b082e420699e643eb7b1f7680b4c905e","useSpecifiedURL":false}
+
+2019-03-01 16:24:59,251 WARN [NACOS-DOM] received empty iplist config for dom: microservice-account
+
+2019-03-01 16:24:59,253 WARN ip not found, register it, dom: microservice-account, ip: 172.25.1.113:8181:unknown_1.0_true_false_DEFAULT
+
+2019-03-01 16:25:00,128 INFO [AUTO-INIT] leader is: 192.168.192.1:8848
+
+2019-03-01 16:25:01,701 INFO [REFRESH-SERVER-SITE] server list is changed, old: [], new: [192.168.192.1:8848]
+
+2019-03-01 16:25:23,548 INFO [HEALTH-CHECK] health check is false
+
+2019-03-01 16:25:50,115 INFO [VIPSRV-DISTRO] distro threshold restored and stable now, enable health check. current ratio: 1.0
+
+2019-03-01 16:25:50,115 INFO [VIPSRV-DISTRO] healthy server list changed, disable health check for 60000 ms from now on
+
+2019-03-01 16:26:50,123 INFO [VIPSRV-DISTRO] distro threshold restored and stable now, enable health check. current ratio: 1.0
+
+2019-03-01 16:30:23,551 INFO [HEALTH-CHECK] health check is true
+
+2019-03-01 16:34:32,067 INFO [AUTO-DELETE-IP] dom: microservice-account, ip: {"app":"DEFAULT","clusterName":"DEFAULT","enabled":true,"instanceId":"172.25.1.113#8181#DEFAULT#microservice-account","ip":"172.25.1.113","lastBeat":1551429237839,"marked":false,"metadata":{},"port":8181,"serviceName":"microservice-account","tenant":"","valid":false,"weight":1}
+
+2019-03-01 16:35:23,552 INFO [HEALTH-CHECK] health check is true
+
+2019-03-01 16:35:47,158 INFO [AUTO-DELETE-IP] dom: microservice-account, ip: {"app":"DEFAULT","clusterName":"DEFAULT","enabled":true,"instanceId":"172.25.1.113#8181#DEFAULT#microservice-account","ip":"172.25.1.113","lastBeat":1551429314166,"marked":false,"metadata":{},"port":8181,"serviceName":"microservice-account","tenant":"","valid":false,"weight":1}
+
+2019-03-01 16:37:27,235 INFO [AUTO-DELETE-IP] dom: microservice-account, ip: {"app":"DEFAULT","clusterName":"DEFAULT","enabled":true,"instanceId":"172.25.1.113#8181#DEFAULT#microservice-account","ip":"172.25.1.113","lastBeat":1551429416583,"marked":false,"metadata":{},"port":8181,"serviceName":"microservice-account","tenant":"","valid":false,"weight":1}
+
+2019-03-01 16:40:23,553 INFO [HEALTH-CHECK] health check is true
+
+2019-03-01 16:41:27,534 INFO [AUTO-DELETE-IP] dom: microservice-account, ip: {"app":"DEFAULT","clusterName":"DEFAULT","enabled":true,"instanceId":"172.25.1.113#8181#DEFAULT#microservice-account","ip":"172.25.1.113","lastBeat":1551429657245,"marked":false,"metadata":{},"port":8181,"serviceName":"microservice-account","tenant":"","valid":false,"weight":1}
+
+2019-03-01 16:45:23,554 INFO [HEALTH-CHECK] health check is true
+
+2019-03-01 16:50:23,555 INFO [HEALTH-CHECK] health check is true
+
+2019-03-01 16:55:23,558 INFO [HEALTH-CHECK] health check is true
+
+2019-03-01 16:57:18,708 INFO [AUTO-DELETE-IP] dom: microservice-account, ip: {"app":"DEFAULT","clusterName":"DEFAULT","enabled":true,"instanceId":"172.25.1.113#8181#DEFAULT#microservice-account","ip":"172.25.1.113","lastBeat":1551430608277,"marked":false,"metadata":{},"port":8181,"serviceName":"microservice-account","tenant":"","valid":false,"weight":1}
+
+2019-03-01 17:00:23,559 INFO [HEALTH-CHECK] health check is true
+
+2019-03-01 17:05:23,561 INFO [HEALTH-CHECK] health check is true
+
+2019-03-01 17:10:23,563 INFO [HEALTH-CHECK] health check is true
+
+2019-03-01 17:15:23,564 INFO [HEALTH-CHECK] health check is true
+
+2019-03-01 17:20:23,568 INFO [HEALTH-CHECK] health check is true
+
+2019-03-01 17:25:23,571 INFO [HEALTH-CHECK] health check is true
+
+2019-03-01 17:30:23,574 INFO [HEALTH-CHECK] health check is true
+
+2019-03-01 17:35:24,072 INFO [HEALTH-CHECK] health check is true
+
+2019-03-01 17:38:14,013 INFO [RESET-WEIGHT] false
+
+2019-03-01 17:38:14,072 INFO [NEW-DOM-RAFT] {"checksum":"a18fbc01c9eaeed95cff7a95d3973350","clusterMap":{"DEFAULT":{"defCkport":80,"defIPPort":80,"defaultCheckPort":80,"defaultPort":80,"healthCheckTask":{"cancelled":false,"checkRTBest":9223372036854775807,"checkRTLast":-1,"checkRTLastLast":-1,"checkRTNormalized":4285,"checkRTWorst":0,"cluster":{"$ref":".."},"startTime":1551433094072},"healthChecker":{"type":"TCP"},"metadata":{},"name":"DEFAULT","nodegroup":"","serviceName":"","sitegroup":"","submask":"0.0.0.0/0","syncKey":"","useIPPort4Check":true}},"enableClientBeat":true,"enableHealthCheck":false,"enabled":true,"ipDeleteTimeout":30000,"lastModifiedMillis":1551433094014,"metadata":{},"name":"microservice-iv","namespaceId":"public","owners":[""],"protectThreshold":0,"resetWeight":false,"selector":{"type":"none"},"token":"f1c64dc567596aeddd80b07fe541a0c9","useSpecifiedURL":false}
+
+2019-03-01 17:40:24,073 INFO [HEALTH-CHECK] health check is true
+
+2019-03-01 17:43:06,770 WARN protect threshold reached, return all ips, dom: microservice-account
+
+2019-03-01 17:43:14,386 WARN protect threshold reached, return all ips, dom: microservice-account
+
+2019-03-01 17:43:20,770 INFO [AUTO-DELETE-IP] dom: microservice-account, ip: {"app":"DEFAULT","clusterName":"DEFAULT","enabled":true,"instanceId":"172.25.1.113#8181#DEFAULT#microservice-account","ip":"172.25.1.113","lastBeat":1551433369793,"marked":false,"metadata":{},"port":8181,"serviceName":"microservice-account","tenant":"","valid":false,"weight":1}
+
+2019-03-01 17:45:24,076 INFO [HEALTH-CHECK] health check is true
+
+2019-03-01 17:46:16,953 WARN protect threshold reached, return all ips, dom: microservice-account
+
+2019-03-01 17:46:18,885 WARN protect threshold reached, return all ips, dom: microservice-account
+
+2019-03-01 17:48:16,983 WARN protect threshold reached, return all ips, dom: microservice-account
+
+2019-03-01 17:48:21,329 WARN protect threshold reached, return all ips, dom: microservice-account
+
+2019-03-01 17:48:24,556 WARN protect threshold reached, return all ips, dom: microservice-account
+
+2019-03-01 17:49:12,001 WARN protect threshold reached, return all ips, dom: microservice-account
+
+2019-03-01 17:49:14,584 WARN protect threshold reached, return all ips, dom: microservice-account
+
+2019-03-01 17:49:24,589 WARN protect threshold reached, return all ips, dom: microservice-account
+
+2019-03-01 17:49:26,001 INFO [AUTO-DELETE-IP] dom: microservice-account, ip: {"app":"DEFAULT","clusterName":"DEFAULT","enabled":true,"instanceId":"172.25.1.113#8181#DEFAULT#microservice-account","ip":"172.25.1.113","lastBeat":1551433735222,"marked":false,"metadata":{},"port":8181,"serviceName":"microservice-account","tenant":"","valid":false,"weight":1}
+
+2019-03-01 17:50:24,078 INFO [HEALTH-CHECK] health check is true
+
+2019-03-01 17:55:24,080 INFO [HEALTH-CHECK] health check is true
+
+2019-03-01 17:56:19,659 INFO [AUTO-DELETE-IP] dom: microservice-iv, ip: {"app":"DEFAULT","clusterName":"DEFAULT","enabled":true,"instanceId":"172.25.1.113#8081#DEFAULT#microservice-iv","ip":"172.25.1.113","lastBeat":1551434148815,"marked":false,"metadata":{},"port":8081,"serviceName":"microservice-iv","tenant":"","valid":false,"weight":1}
+
+2019-03-01 17:56:21,749 INFO [CLUSTER-UPDATE] microservice-account:QOGIR, defIPPort: -1 -> 80
+
+2019-03-01 17:56:21,773 WARN ip not found, register it, dom: microservice-account, ip: 172.25.1.113:8181:unknown_1.0_true_false_QOGIR
+
+2019-03-01 17:56:26,038 INFO [CLUSTER-UPDATE] microservice-iv:QOGIR, defIPPort: -1 -> 80
+
+2019-03-01 17:58:01,481 INFO [AUTO-DELETE-IP] dom: microservice-account, ip: {"app":"DEFAULT","clusterName":"QOGIR","enabled":true,"instanceId":"172.25.1.113#8181#QOGIR#microservice-account","ip":"172.25.1.113","lastBeat":1551434251434,"marked":false,"metadata":{},"port":8181,"serviceName":"microservice-account","tenant":"","valid":false,"weight":1}
+
+2019-03-01 17:58:09,698 INFO [AUTO-DELETE-IP] dom: microservice-iv, ip: {"app":"DEFAULT","clusterName":"QOGIR","enabled":true,"instanceId":"172.25.1.113#8081#QOGIR#microservice-iv","ip":"172.25.1.113","lastBeat":1551434255831,"marked":false,"metadata":{},"port":8081,"serviceName":"microservice-iv","tenant":"","valid":false,"weight":1}
+
+2019-03-01 18:00:24,082 INFO [HEALTH-CHECK] health check is true
+

@@ -1,0 +1,122 @@
+2019-02-28 17:48:23,847 INFO [VIPSRV-DISTRO] healthy server list changed, disable health check for 60000 ms from now on, healthList: [], newHealthyList [192.168.192.1:0]
+
+2019-02-28 17:48:29,193 ERROR [AUTO-INIT] failed to auto init
+
+java.lang.IllegalStateException: unable to find local peer: 192.168.192.1:0, all peers: []
+	at com.alibaba.nacos.naming.raft.PeerSet.local(PeerSet.java:191)
+	at com.alibaba.nacos.naming.raft.PeerSet.getLeader(PeerSet.java:49)
+	at com.alibaba.nacos.naming.core.DomainsManager.initConfig(DomainsManager.java:100)
+	at com.alibaba.nacos.naming.core.DomainsManager.access$500(DomainsManager.java:44)
+	at com.alibaba.nacos.naming.core.DomainsManager$3.run(DomainsManager.java:607)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.access$201(ScheduledThreadPoolExecutor.java:180)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:293)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+2019-02-28 17:48:34,208 ERROR [AUTO-INIT] failed to auto init
+
+java.lang.IllegalStateException: unable to find local peer: 192.168.192.1:0, all peers: []
+	at com.alibaba.nacos.naming.raft.PeerSet.local(PeerSet.java:191)
+	at com.alibaba.nacos.naming.raft.PeerSet.getLeader(PeerSet.java:49)
+	at com.alibaba.nacos.naming.core.DomainsManager.initConfig(DomainsManager.java:100)
+	at com.alibaba.nacos.naming.core.DomainsManager.access$500(DomainsManager.java:44)
+	at com.alibaba.nacos.naming.core.DomainsManager$3.run(DomainsManager.java:607)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.access$201(ScheduledThreadPoolExecutor.java:180)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:293)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+2019-02-28 17:48:40,013 ERROR [AUTO-INIT] failed to auto init
+
+java.lang.IllegalStateException: unable to find local peer: 192.168.192.1:0, all peers: []
+	at com.alibaba.nacos.naming.raft.PeerSet.local(PeerSet.java:191)
+	at com.alibaba.nacos.naming.raft.PeerSet.getLeader(PeerSet.java:49)
+	at com.alibaba.nacos.naming.core.DomainsManager.initConfig(DomainsManager.java:100)
+	at com.alibaba.nacos.naming.core.DomainsManager.access$500(DomainsManager.java:44)
+	at com.alibaba.nacos.naming.core.DomainsManager$3.run(DomainsManager.java:607)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.access$201(ScheduledThreadPoolExecutor.java:180)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:293)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+2019-02-28 17:48:45,014 ERROR [AUTO-INIT] failed to auto init
+
+java.lang.IllegalStateException: unable to find local peer: 192.168.192.1:0, all peers: []
+	at com.alibaba.nacos.naming.raft.PeerSet.local(PeerSet.java:191)
+	at com.alibaba.nacos.naming.raft.PeerSet.getLeader(PeerSet.java:49)
+	at com.alibaba.nacos.naming.core.DomainsManager.initConfig(DomainsManager.java:100)
+	at com.alibaba.nacos.naming.core.DomainsManager.access$500(DomainsManager.java:44)
+	at com.alibaba.nacos.naming.core.DomainsManager$3.run(DomainsManager.java:607)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.access$201(ScheduledThreadPoolExecutor.java:180)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:293)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+2019-02-28 17:48:46,729 INFO [SERVER-INIT] got port: 8848
+
+2019-02-28 17:48:46,730 INFO [SERVER-INIT] got path: /nacos
+
+2019-02-28 17:48:50,016 INFO [AUTO-INIT] leader is: 192.168.192.1:8848
+
+2019-02-28 17:49:12,658 INFO [HEALTH-CHECK] health check is false
+
+2019-02-28 17:49:23,965 INFO [VIPSRV-DISTRO] distro threshold restored and stable now, enable health check. current ratio: 1.0
+
+2019-02-28 17:49:23,965 INFO [VIPSRV-DISTRO] healthy server list changed, disable health check for 60000 ms from now on
+
+2019-02-28 17:50:23,972 INFO [VIPSRV-DISTRO] distro threshold restored and stable now, enable health check. current ratio: 1.0
+
+2019-02-28 17:54:12,659 INFO [HEALTH-CHECK] health check is true
+
+2019-02-28 17:59:12,667 INFO [HEALTH-CHECK] health check is true
+
+2019-02-28 18:04:12,670 INFO [HEALTH-CHECK] health check is true
+
+2019-02-28 18:09:12,672 INFO [HEALTH-CHECK] health check is true
+
+2019-02-28 18:14:12,674 INFO [HEALTH-CHECK] health check is true
+
+2019-02-28 18:19:12,676 INFO [HEALTH-CHECK] health check is true
+
+2019-02-28 18:24:12,684 INFO [HEALTH-CHECK] health check is true
+
+2019-02-28 18:29:12,686 INFO [HEALTH-CHECK] health check is true
+
+2019-02-28 18:34:12,688 INFO [HEALTH-CHECK] health check is true
+
+2019-02-28 18:39:12,694 INFO [HEALTH-CHECK] health check is true
+
+2019-02-28 18:44:12,695 INFO [HEALTH-CHECK] health check is true
+
+2019-02-28 18:49:12,698 INFO [HEALTH-CHECK] health check is true
+
+2019-02-28 18:54:12,699 INFO [HEALTH-CHECK] health check is true
+
+2019-02-28 18:59:12,701 INFO [HEALTH-CHECK] health check is true
+
+2019-02-28 19:00:25,456 INFO [RESET-WEIGHT] false
+
+2019-02-28 19:00:25,676 INFO [NEW-DOM-RAFT] {"checksum":"18ea7e37ca8054c8b1c039ca3e583d7d","clusterMap":{"DEFAULT":{"defCkport":80,"defIPPort":80,"defaultCheckPort":80,"defaultPort":80,"healthCheckTask":{"cancelled":false,"checkRTBest":9223372036854775807,"checkRTLast":-1,"checkRTLastLast":-1,"checkRTNormalized":2628,"checkRTWorst":0,"cluster":{"$ref":".."},"startTime":1551351625667},"healthChecker":{"type":"TCP"},"metadata":{},"name":"DEFAULT","nodegroup":"","serviceName":"","sitegroup":"","submask":"0.0.0.0/0","syncKey":"","useIPPort4Check":true}},"enableClientBeat":true,"enableHealthCheck":false,"enabled":true,"ipDeleteTimeout":30000,"lastModifiedMillis":1551351625467,"metadata":{},"name":"microservice-account","namespaceId":"public","owners":[""],"protectThreshold":0,"resetWeight":false,"selector":{"type":"none"},"token":"b082e420699e643eb7b1f7680b4c905e","useSpecifiedURL":false}
+
+2019-02-28 19:00:25,720 WARN [NACOS-DOM] received empty iplist config for dom: microservice-account
+
+2019-02-28 19:00:26,541 INFO [REFRESH-SERVER-SITE] server list is changed, old: [], new: [192.168.192.1:8848]
+
+2019-02-28 19:03:40,753 INFO [AUTO-DELETE-IP] dom: microservice-account, ip: {"app":"DEFAULT","clusterName":"DEFAULT","enabled":true,"instanceId":"172.25.1.113#8181#DEFAULT#microservice-account","ip":"172.25.1.113","lastBeat":1551351790215,"marked":false,"metadata":{},"port":8181,"serviceName":"microservice-account","tenant":"","valid":false,"weight":1}
+
+2019-02-28 19:04:12,702 INFO [HEALTH-CHECK] health check is true
+
+2019-02-28 19:09:12,703 INFO [HEALTH-CHECK] health check is true
+
+2019-02-28 19:14:12,706 INFO [HEALTH-CHECK] health check is true
+
+2019-02-28 19:15:10,229 INFO [AUTO-DELETE-IP] dom: microservice-account, ip: {"app":"DEFAULT","clusterName":"DEFAULT","enabled":true,"instanceId":"172.25.1.113#8181#DEFAULT#microservice-account","ip":"172.25.1.113","lastBeat":1551352480209,"marked":false,"metadata":{},"port":8181,"serviceName":"microservice-account","tenant":"","valid":false,"weight":1}
+

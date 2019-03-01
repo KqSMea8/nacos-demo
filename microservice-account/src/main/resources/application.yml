@@ -1,0 +1,22 @@
+spring:
+  application:
+    name: microservice-account #指定服务名
+  cloud:
+    nacos:
+      discovery:
+        server-addr: 127.0.0.1:8848
+        cluster-name: QOGIR
+server:
+  port: 8181 #服务端口
+
+hystrix.command.default.execution.isolation.thread.timeoutInMilliseconds: 5000
+logging:
+  level:
+    root: info
+
+management:
+  endpoints:
+    web:
+      exposure:
+        include: '*'
+

@@ -1,0 +1,756 @@
+2019-03-01 09:16:29,871 WARN clearConfigHistory start
+
+2019-03-01 09:26:09,703 INFO [capacityManagement] start correct usage
+
+2019-03-01 09:26:09,704 INFO [capacityManagement] end correct usage, cost: 0s
+
+2019-03-01 09:26:31,369 WARN clearConfigHistory start
+
+2019-03-01 09:36:09,704 INFO [capacityManagement] start correct usage
+
+2019-03-01 09:36:09,705 INFO [capacityManagement] end correct usage, cost: 0s
+
+2019-03-01 09:36:31,370 WARN clearConfigHistory start
+
+2019-03-01 09:46:09,708 INFO [capacityManagement] start correct usage
+
+2019-03-01 09:46:09,710 INFO [capacityManagement] end correct usage, cost: 0s
+
+2019-03-01 09:46:31,372 WARN clearConfigHistory start
+
+2019-03-01 09:56:09,711 INFO [capacityManagement] start correct usage
+
+2019-03-01 09:56:09,715 INFO [capacityManagement] end correct usage, cost: 0s
+
+2019-03-01 09:56:31,375 WARN clearConfigHistory start
+
+2019-03-01 10:06:09,718 INFO [capacityManagement] start correct usage
+
+2019-03-01 10:06:09,720 INFO [capacityManagement] end correct usage, cost: 0s
+
+2019-03-01 10:06:31,378 WARN clearConfigHistory start
+
+2019-03-01 10:16:09,723 INFO [capacityManagement] start correct usage
+
+2019-03-01 10:16:09,725 INFO [capacityManagement] end correct usage, cost: 0s
+
+2019-03-01 10:16:31,382 WARN clearConfigHistory start
+
+2019-03-01 10:26:09,729 INFO [capacityManagement] start correct usage
+
+2019-03-01 10:26:09,731 INFO [capacityManagement] end correct usage, cost: 0s
+
+2019-03-01 10:26:31,387 WARN clearConfigHistory start
+
+2019-03-01 10:36:09,734 INFO [capacityManagement] start correct usage
+
+2019-03-01 10:36:09,741 INFO [capacityManagement] end correct usage, cost: 0s
+
+2019-03-01 10:36:31,393 WARN clearConfigHistory start
+
+2019-03-01 10:46:09,746 INFO [capacityManagement] start correct usage
+
+2019-03-01 10:46:09,752 INFO [capacityManagement] end correct usage, cost: 0s
+
+2019-03-01 10:46:31,397 WARN clearConfigHistory start
+
+2019-03-01 10:56:09,756 INFO [capacityManagement] start correct usage
+
+2019-03-01 10:56:09,760 INFO [capacityManagement] end correct usage, cost: 0s
+
+2019-03-01 10:56:31,402 WARN clearConfigHistory start
+
+2019-03-01 11:06:09,815 INFO [capacityManagement] start correct usage
+
+2019-03-01 11:06:09,818 INFO [capacityManagement] end correct usage, cost: 0s
+
+2019-03-01 11:06:31,406 WARN clearConfigHistory start
+
+2019-03-01 11:16:09,822 INFO [capacityManagement] start correct usage
+
+2019-03-01 11:16:09,823 INFO [capacityManagement] end correct usage, cost: 0s
+
+2019-03-01 11:16:31,408 WARN clearConfigHistory start
+
+2019-03-01 11:26:09,825 INFO [capacityManagement] start correct usage
+
+2019-03-01 11:26:09,825 INFO [capacityManagement] end correct usage, cost: 0s
+
+2019-03-01 11:26:31,410 WARN clearConfigHistory start
+
+2019-03-01 11:36:09,828 INFO [capacityManagement] start correct usage
+
+2019-03-01 11:36:09,829 INFO [capacityManagement] end correct usage, cost: 0s
+
+2019-03-01 11:36:31,413 WARN clearConfigHistory start
+
+2019-03-01 11:46:09,833 INFO [capacityManagement] start correct usage
+
+2019-03-01 11:46:09,834 INFO [capacityManagement] end correct usage, cost: 0s
+
+2019-03-01 11:46:31,415 WARN clearConfigHistory start
+
+2019-03-01 11:56:09,836 INFO [capacityManagement] start correct usage
+
+2019-03-01 11:56:09,837 INFO [capacityManagement] end correct usage, cost: 0s
+
+2019-03-01 11:56:31,417 WARN clearConfigHistory start
+
+2019-03-01 12:06:09,840 INFO [capacityManagement] start correct usage
+
+2019-03-01 12:06:09,840 INFO [capacityManagement] end correct usage, cost: 0s
+
+2019-03-01 12:06:31,419 WARN clearConfigHistory start
+
+2019-03-01 12:16:09,842 INFO [capacityManagement] start correct usage
+
+2019-03-01 12:16:09,844 INFO [capacityManagement] end correct usage, cost: 0s
+
+2019-03-01 12:16:31,420 WARN clearConfigHistory start
+
+2019-03-01 12:26:09,845 INFO [capacityManagement] start correct usage
+
+2019-03-01 12:26:09,847 INFO [capacityManagement] end correct usage, cost: 0s
+
+2019-03-01 12:26:31,423 WARN clearConfigHistory start
+
+2019-03-01 12:36:09,851 INFO [capacityManagement] start correct usage
+
+2019-03-01 12:36:09,852 INFO [capacityManagement] end correct usage, cost: 0s
+
+2019-03-01 12:36:31,426 WARN clearConfigHistory start
+
+2019-03-01 12:46:09,853 INFO [capacityManagement] start correct usage
+
+2019-03-01 12:46:09,855 INFO [capacityManagement] end correct usage, cost: 0s
+
+2019-03-01 12:46:31,433 WARN clearConfigHistory start
+
+2019-03-01 12:56:09,858 INFO [capacityManagement] start correct usage
+
+2019-03-01 12:56:09,860 INFO [capacityManagement] end correct usage, cost: 0s
+
+2019-03-01 12:56:31,434 WARN clearConfigHistory start
+
+2019-03-01 13:06:09,864 INFO [capacityManagement] start correct usage
+
+2019-03-01 13:06:09,867 INFO [capacityManagement] end correct usage, cost: 0s
+
+2019-03-01 13:06:31,438 WARN clearConfigHistory start
+
+2019-03-01 13:16:09,871 INFO [capacityManagement] start correct usage
+
+2019-03-01 13:16:09,871 INFO [capacityManagement] end correct usage, cost: 0s
+
+2019-03-01 13:16:31,441 WARN clearConfigHistory start
+
+2019-03-01 13:26:09,874 INFO [capacityManagement] start correct usage
+
+2019-03-01 13:26:09,875 INFO [capacityManagement] end correct usage, cost: 0s
+
+2019-03-01 13:26:31,442 WARN clearConfigHistory start
+
+2019-03-01 13:31:13,156 INFO Expired JWT token.
+
+2019-03-01 13:31:13,160 ERROR Responding with unauthorized error. Message - Full authentication is required to access this resource
+
+2019-03-01 13:31:15,256 INFO Expired JWT token.
+
+2019-03-01 13:31:15,258 ERROR Responding with unauthorized error. Message - Full authentication is required to access this resource
+
+2019-03-01 13:36:09,878 INFO [capacityManagement] start correct usage
+
+2019-03-01 13:36:09,881 INFO [capacityManagement] end correct usage, cost: 0s
+
+2019-03-01 13:36:31,444 WARN clearConfigHistory start
+
+2019-03-01 13:46:09,883 INFO [capacityManagement] start correct usage
+
+2019-03-01 13:46:09,885 INFO [capacityManagement] end correct usage, cost: 0s
+
+2019-03-01 13:46:31,446 WARN clearConfigHistory start
+
+2019-03-01 13:56:09,888 INFO [capacityManagement] start correct usage
+
+2019-03-01 13:56:09,889 INFO [capacityManagement] end correct usage, cost: 0s
+
+2019-03-01 13:56:31,448 WARN clearConfigHistory start
+
+2019-03-01 14:02:30,635 INFO Expired JWT token.
+
+2019-03-01 14:02:30,636 ERROR Responding with unauthorized error. Message - Full authentication is required to access this resource
+
+2019-03-01 14:06:09,892 INFO [capacityManagement] start correct usage
+
+2019-03-01 14:06:09,898 INFO [capacityManagement] end correct usage, cost: 0s
+
+2019-03-01 14:06:31,449 WARN clearConfigHistory start
+
+2019-03-01 14:16:09,899 INFO [capacityManagement] start correct usage
+
+2019-03-01 14:16:09,900 INFO [capacityManagement] end correct usage, cost: 0s
+
+2019-03-01 14:16:31,450 WARN clearConfigHistory start
+
+2019-03-01 14:26:09,902 INFO [capacityManagement] start correct usage
+
+2019-03-01 14:26:09,903 INFO [capacityManagement] end correct usage, cost: 0s
+
+2019-03-01 14:26:31,453 WARN clearConfigHistory start
+
+2019-03-01 14:36:09,905 INFO [capacityManagement] start correct usage
+
+2019-03-01 14:36:09,908 INFO [capacityManagement] end correct usage, cost: 0s
+
+2019-03-01 14:36:31,455 WARN clearConfigHistory start
+
+2019-03-01 14:46:09,912 INFO [capacityManagement] start correct usage
+
+2019-03-01 14:46:09,914 INFO [capacityManagement] end correct usage, cost: 0s
+
+2019-03-01 14:46:31,458 WARN clearConfigHistory start
+
+2019-03-01 14:56:09,917 INFO [capacityManagement] start correct usage
+
+2019-03-01 14:56:09,918 INFO [capacityManagement] end correct usage, cost: 0s
+
+2019-03-01 14:56:31,465 WARN clearConfigHistory start
+
+2019-03-01 15:06:09,920 INFO [capacityManagement] start correct usage
+
+2019-03-01 15:06:09,921 INFO [capacityManagement] end correct usage, cost: 0s
+
+2019-03-01 15:06:31,466 WARN clearConfigHistory start
+
+2019-03-01 15:16:09,924 INFO [capacityManagement] start correct usage
+
+2019-03-01 15:16:09,925 INFO [capacityManagement] end correct usage, cost: 0s
+
+2019-03-01 15:16:31,468 WARN clearConfigHistory start
+
+2019-03-01 15:26:09,927 INFO [capacityManagement] start correct usage
+
+2019-03-01 15:26:09,928 INFO [capacityManagement] end correct usage, cost: 0s
+
+2019-03-01 15:26:31,470 WARN clearConfigHistory start
+
+2019-03-01 15:36:09,932 INFO [capacityManagement] start correct usage
+
+2019-03-01 15:36:09,935 INFO [capacityManagement] end correct usage, cost: 0s
+
+2019-03-01 15:36:31,474 WARN clearConfigHistory start
+
+2019-03-01 15:44:35,343 INFO Expired JWT token.
+
+2019-03-01 15:44:35,348 ERROR Responding with unauthorized error. Message - Full authentication is required to access this resource
+
+2019-03-01 15:46:09,936 INFO [capacityManagement] start correct usage
+
+2019-03-01 15:46:09,938 INFO [capacityManagement] end correct usage, cost: 0s
+
+2019-03-01 15:46:31,476 WARN clearConfigHistory start
+
+2019-03-01 15:53:42,386 INFO Starting Nacos v0.8.0 on LAPTOP-KCF0F8AO with PID 22908 (C:\Users\eryeer\Desktop\git\nacos\demo\nacos-server-0.8.0\nacos\target\nacos-server.jar started by eryeer in C:\Users\eryeer\Desktop\git\nacos\demo\nacos-server-0.8.0\nacos\bin)
+
+2019-03-01 15:53:42,395 INFO The following profiles are active: standalone
+
+2019-03-01 15:53:47,436 INFO Bean 'org.springframework.security.config.annotation.configuration.ObjectPostProcessorConfiguration' of type [org.springframework.security.config.annotation.configuration.ObjectPostProcessorConfiguration$$EnhancerBySpringCGLIB$$dd7ef3b2] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+
+2019-03-01 15:53:47,669 INFO Bean 'objectPostProcessor' of type [org.springframework.security.config.annotation.configuration.AutowireBeanFactoryObjectPostProcessor] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+
+2019-03-01 15:53:47,677 INFO Bean 'org.springframework.security.access.expression.method.DefaultMethodSecurityExpressionHandler@6892b3b6' of type [org.springframework.security.access.expression.method.DefaultMethodSecurityExpressionHandler] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+
+2019-03-01 15:53:47,680 INFO Bean 'org.springframework.security.config.annotation.method.configuration.GlobalMethodSecurityConfiguration' of type [org.springframework.security.config.annotation.method.configuration.GlobalMethodSecurityConfiguration$$EnhancerBySpringCGLIB$$2539664] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+
+2019-03-01 15:53:47,688 INFO Bean 'methodSecurityMetadataSource' of type [org.springframework.security.access.method.DelegatingMethodSecurityMetadataSource] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+
+2019-03-01 15:53:49,578 INFO Tomcat initialized with port(s): 8848 (http)
+
+2019-03-01 15:53:49,692 INFO Starting service [Tomcat]
+
+2019-03-01 15:53:49,693 INFO Starting Servlet Engine: Apache Tomcat/9.0.13
+
+2019-03-01 15:53:49,754 INFO The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: [D:\Develop\Java\jdk1.8.0_144\bin;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;D:\Develop\Python\Python37-32\Scripts\;D:\Develop\Python\Python37-32\;C:\Program Files (x86)\Intel\iCLS Client\;C:\Program Files\Intel\iCLS Client\;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files (x86)\Skype\Phone\;D:\Program files\Java\jdk1.8.0_144\bin;D:\Develop\apache-maven-3.3.9\bin;C:\Program Files\MySQL\MySQL Server 5.6\bin;D:\Program Files\Git\cmd;D:\Develop\gradle\gradle-4.5\bin;D:\Program files\MySQL\mysql-5.7.21-winx64\bin;D:\Program files\MongoDB\Server\3.6\bin;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files (x86)\Microsoft VS Code\bin;D:\Develop\Go\bin;C:\Program Files\Intel\WiFi\bin\;C:\Program Files\Common Files\Intel\WirelessCommon\;C:\Program Files (x86)\Windows Kits\8.1\Windows Performance Toolkit\;D:\Develop\nodejs\;C:\Users\eryeer\AppData\Local\Microsoft\WindowsApps;;C:\Program Files (x86)\Microsoft VS Code\bin;C:\Users\eryeer\go\bin;C:\Users\eryeer\AppData\Roaming\npm;D:\Program Files\JetBrains\WebStorm 2018.3.3\bin;;.]
+
+2019-03-01 15:53:52,533 INFO Initializing Spring embedded WebApplicationContext
+
+2019-03-01 15:53:52,534 INFO Root WebApplicationContext: initialization completed in 9930 ms
+
+2019-03-01 15:54:00,814 INFO Autowired annotation is not supported on static fields: static org.springframework.context.ApplicationContext com.alibaba.nacos.naming.boot.SpringContext.context
+
+2019-03-01 15:54:01,588 INFO Initializing ExecutorService 'applicationTaskExecutor'
+
+2019-03-01 15:54:02,224 INFO Adding welcome page: class path resource [static/index.html]
+
+2019-03-01 15:54:03,465 INFO Creating filter chain: Ant [pattern='/'], []
+
+2019-03-01 15:54:03,466 INFO Creating filter chain: Ant [pattern='/**/*.css'], []
+
+2019-03-01 15:54:03,467 INFO Creating filter chain: Ant [pattern='/**/*.js'], []
+
+2019-03-01 15:54:03,468 INFO Creating filter chain: Ant [pattern='/**/*.html'], []
+
+2019-03-01 15:54:03,469 INFO Creating filter chain: Ant [pattern='/**/*.map'], []
+
+2019-03-01 15:54:03,470 INFO Creating filter chain: Ant [pattern='/**/*.svg'], []
+
+2019-03-01 15:54:03,470 INFO Creating filter chain: Ant [pattern='/**/*.png'], []
+
+2019-03-01 15:54:03,470 INFO Creating filter chain: Ant [pattern='/**/*.ico'], []
+
+2019-03-01 15:54:03,471 INFO Creating filter chain: Ant [pattern='/console-fe/public/**'], []
+
+2019-03-01 15:54:03,472 INFO Creating filter chain: Ant [pattern='/v1/auth/login'], []
+
+2019-03-01 15:54:03,472 INFO Creating filter chain: Ant [pattern='/v1/console/health'], []
+
+2019-03-01 15:54:03,473 INFO Creating filter chain: Ant [pattern='/v1/cs/**'], []
+
+2019-03-01 15:54:03,473 INFO Creating filter chain: Ant [pattern='/v1/ns/**'], []
+
+2019-03-01 15:54:03,474 INFO Creating filter chain: Ant [pattern='/v1/cmdb/**'], []
+
+2019-03-01 15:54:03,474 INFO Creating filter chain: Ant [pattern='/actuator/**'], []
+
+2019-03-01 15:54:03,515 INFO Creating filter chain: any request, [org.springframework.security.web.context.request.async.WebAsyncManagerIntegrationFilter@3c9bfddc, org.springframework.security.web.context.SecurityContextPersistenceFilter@52d645b1, org.springframework.security.web.header.HeaderWriterFilter@ec2cc4, org.springframework.security.web.authentication.logout.LogoutFilter@25e2ab5a, com.alibaba.nacos.console.filter.JwtAuthenticationTokenFilter@1a9c38eb, org.springframework.security.web.savedrequest.RequestCacheAwareFilter@2cc3ad05, org.springframework.security.web.servletapi.SecurityContextHolderAwareRequestFilter@3d9f6567, org.springframework.security.web.authentication.AnonymousAuthenticationFilter@319bc845, org.springframework.security.web.session.SessionManagementFilter@7c1e2a2d, org.springframework.security.web.access.ExceptionTranslationFilter@ccb4b1b, org.springframework.security.web.access.intercept.FilterSecurityInterceptor@555cf22]
+
+2019-03-01 15:54:03,573 INFO Exposing 2 endpoint(s) beneath base path '/actuator'
+
+2019-03-01 15:54:03,612 INFO Initializing ExecutorService 'taskScheduler'
+
+2019-03-01 15:54:03,823 INFO Tomcat started on port(s): 8848 (http) with context path '/nacos'
+
+2019-03-01 15:54:03,908 INFO Started Nacos in 24.12 seconds (JVM running for 25.858)
+
+2019-03-01 15:54:03,908 INFO Nacos Log files: C:\Users\eryeer\Desktop\git\nacos\demo\nacos-server-0.8.0\nacos\/logs/
+
+2019-03-01 15:54:03,927 INFO Nacos Conf files: C:\Users\eryeer\Desktop\git\nacos\demo\nacos-server-0.8.0\nacos\/conf/
+
+2019-03-01 15:54:03,958 INFO Nacos Data files: C:\Users\eryeer\Desktop\git\nacos\demo\nacos-server-0.8.0\nacos\/data/
+
+2019-03-01 15:54:04,014 INFO Nacos started successfully in stand alone mode.
+
+2019-03-01 15:54:04,071 INFO Initializing Spring DispatcherServlet 'dispatcherServlet'
+
+2019-03-01 15:54:04,072 INFO Initializing Servlet 'dispatcherServlet'
+
+2019-03-01 15:54:04,091 INFO Completed initialization in 19 ms
+
+2019-03-01 16:04:00,048 INFO [capacityManagement] start correct usage
+
+2019-03-01 16:04:00,067 INFO [capacityManagement] end correct usage, cost: 0s
+
+2019-03-01 16:04:00,766 WARN clearConfigHistory start
+
+2019-03-01 16:07:13,381 INFO Starting Nacos v0.8.0 on LAPTOP-KCF0F8AO with PID 37812 (C:\Users\eryeer\Desktop\git\nacos\demo\nacos-server-0.8.0\nacos\target\nacos-server.jar started by eryeer in C:\Users\eryeer\Desktop\git\nacos\demo\nacos-server-0.8.0\nacos\bin)
+
+2019-03-01 16:07:13,386 INFO The following profiles are active: standalone
+
+2019-03-01 16:07:16,709 INFO Bean 'org.springframework.security.config.annotation.configuration.ObjectPostProcessorConfiguration' of type [org.springframework.security.config.annotation.configuration.ObjectPostProcessorConfiguration$$EnhancerBySpringCGLIB$$62102eb] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+
+2019-03-01 16:07:16,830 INFO Bean 'objectPostProcessor' of type [org.springframework.security.config.annotation.configuration.AutowireBeanFactoryObjectPostProcessor] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+
+2019-03-01 16:07:16,836 INFO Bean 'org.springframework.security.access.expression.method.DefaultMethodSecurityExpressionHandler@26d9b808' of type [org.springframework.security.access.expression.method.DefaultMethodSecurityExpressionHandler] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+
+2019-03-01 16:07:16,840 INFO Bean 'org.springframework.security.config.annotation.method.configuration.GlobalMethodSecurityConfiguration' of type [org.springframework.security.config.annotation.method.configuration.GlobalMethodSecurityConfiguration$$EnhancerBySpringCGLIB$$2af5a59d] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+
+2019-03-01 16:07:16,848 INFO Bean 'methodSecurityMetadataSource' of type [org.springframework.security.access.method.DelegatingMethodSecurityMetadataSource] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+
+2019-03-01 16:07:17,783 INFO Tomcat initialized with port(s): 8848 (http)
+
+2019-03-01 16:07:17,832 INFO Starting service [Tomcat]
+
+2019-03-01 16:07:17,832 INFO Starting Servlet Engine: Apache Tomcat/9.0.13
+
+2019-03-01 16:07:17,848 INFO The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: [D:\Develop\Java\jdk1.8.0_144\bin;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;D:\Develop\Python\Python37-32\Scripts\;D:\Develop\Python\Python37-32\;C:\Program Files (x86)\Intel\iCLS Client\;C:\Program Files\Intel\iCLS Client\;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files (x86)\Skype\Phone\;D:\Program files\Java\jdk1.8.0_144\bin;D:\Develop\apache-maven-3.3.9\bin;C:\Program Files\MySQL\MySQL Server 5.6\bin;D:\Program Files\Git\cmd;D:\Develop\gradle\gradle-4.5\bin;D:\Program files\MySQL\mysql-5.7.21-winx64\bin;D:\Program files\MongoDB\Server\3.6\bin;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files (x86)\Microsoft VS Code\bin;D:\Develop\Go\bin;C:\Program Files\Intel\WiFi\bin\;C:\Program Files\Common Files\Intel\WirelessCommon\;C:\Program Files (x86)\Windows Kits\8.1\Windows Performance Toolkit\;D:\Develop\nodejs\;C:\Users\eryeer\AppData\Local\Microsoft\WindowsApps;;C:\Program Files (x86)\Microsoft VS Code\bin;C:\Users\eryeer\go\bin;C:\Users\eryeer\AppData\Roaming\npm;D:\Program Files\JetBrains\WebStorm 2018.3.3\bin;;.]
+
+2019-03-01 16:07:17,979 INFO Initializing Spring embedded WebApplicationContext
+
+2019-03-01 16:07:17,980 INFO Root WebApplicationContext: initialization completed in 4406 ms
+
+2019-03-01 16:07:23,921 INFO Autowired annotation is not supported on static fields: static org.springframework.context.ApplicationContext com.alibaba.nacos.naming.boot.SpringContext.context
+
+2019-03-01 16:07:25,086 INFO Initializing ExecutorService 'applicationTaskExecutor'
+
+2019-03-01 16:07:25,538 INFO Adding welcome page: class path resource [static/index.html]
+
+2019-03-01 16:07:26,968 INFO Creating filter chain: Ant [pattern='/'], []
+
+2019-03-01 16:07:26,969 INFO Creating filter chain: Ant [pattern='/**/*.css'], []
+
+2019-03-01 16:07:26,971 INFO Creating filter chain: Ant [pattern='/**/*.js'], []
+
+2019-03-01 16:07:26,972 INFO Creating filter chain: Ant [pattern='/**/*.html'], []
+
+2019-03-01 16:07:26,975 INFO Creating filter chain: Ant [pattern='/**/*.map'], []
+
+2019-03-01 16:07:26,977 INFO Creating filter chain: Ant [pattern='/**/*.svg'], []
+
+2019-03-01 16:07:26,978 INFO Creating filter chain: Ant [pattern='/**/*.png'], []
+
+2019-03-01 16:07:26,979 INFO Creating filter chain: Ant [pattern='/**/*.ico'], []
+
+2019-03-01 16:07:26,980 INFO Creating filter chain: Ant [pattern='/console-fe/public/**'], []
+
+2019-03-01 16:07:26,981 INFO Creating filter chain: Ant [pattern='/v1/auth/login'], []
+
+2019-03-01 16:07:26,984 INFO Creating filter chain: Ant [pattern='/v1/console/health'], []
+
+2019-03-01 16:07:26,987 INFO Creating filter chain: Ant [pattern='/v1/cs/**'], []
+
+2019-03-01 16:07:26,987 INFO Creating filter chain: Ant [pattern='/v1/ns/**'], []
+
+2019-03-01 16:07:26,988 INFO Creating filter chain: Ant [pattern='/v1/cmdb/**'], []
+
+2019-03-01 16:07:26,989 INFO Creating filter chain: Ant [pattern='/actuator/**'], []
+
+2019-03-01 16:07:27,150 INFO Creating filter chain: any request, [org.springframework.security.web.context.request.async.WebAsyncManagerIntegrationFilter@4c5474f5, org.springframework.security.web.context.SecurityContextPersistenceFilter@710b18a6, org.springframework.security.web.header.HeaderWriterFilter@333dd51e, org.springframework.security.web.authentication.logout.LogoutFilter@55562aa9, com.alibaba.nacos.console.filter.JwtAuthenticationTokenFilter@2f4205be, org.springframework.security.web.savedrequest.RequestCacheAwareFilter@3d9f6567, org.springframework.security.web.servletapi.SecurityContextHolderAwareRequestFilter@35e5d0e5, org.springframework.security.web.authentication.AnonymousAuthenticationFilter@54e22bdd, org.springframework.security.web.session.SessionManagementFilter@2101b44a, org.springframework.security.web.access.ExceptionTranslationFilter@2a5b3fee, org.springframework.security.web.access.intercept.FilterSecurityInterceptor@1a9c38eb]
+
+2019-03-01 16:07:27,319 INFO Exposing 2 endpoint(s) beneath base path '/actuator'
+
+2019-03-01 16:07:27,375 INFO Initializing ExecutorService 'taskScheduler'
+
+2019-03-01 16:07:27,708 INFO Tomcat started on port(s): 8848 (http) with context path '/nacos'
+
+2019-03-01 16:07:27,881 INFO Started Nacos in 16.297 seconds (JVM running for 17.682)
+
+2019-03-01 16:07:27,887 INFO Nacos Log files: C:\Users\eryeer\Desktop\git\nacos\demo\nacos-server-0.8.0\nacos\/logs/
+
+2019-03-01 16:07:27,900 INFO Nacos Conf files: C:\Users\eryeer\Desktop\git\nacos\demo\nacos-server-0.8.0\nacos\/conf/
+
+2019-03-01 16:07:27,901 INFO Nacos Data files: C:\Users\eryeer\Desktop\git\nacos\demo\nacos-server-0.8.0\nacos\/data/
+
+2019-03-01 16:07:27,902 INFO Nacos started successfully in stand alone mode.
+
+2019-03-01 16:07:28,130 INFO Initializing Spring DispatcherServlet 'dispatcherServlet'
+
+2019-03-01 16:07:28,130 INFO Initializing Servlet 'dispatcherServlet'
+
+2019-03-01 16:07:28,143 INFO Completed initialization in 13 ms
+
+2019-03-01 16:15:06,144 INFO Starting Nacos v0.8.0 on LAPTOP-KCF0F8AO with PID 34288 (C:\Users\eryeer\Desktop\git\nacos\demo\nacos-server-0.8.0\nacos\target\nacos-server.jar started by eryeer in C:\Users\eryeer\Desktop\git\nacos\demo\nacos-server-0.8.0\nacos\bin)
+
+2019-03-01 16:15:06,213 INFO The following profiles are active: standalone
+
+2019-03-01 16:15:09,772 INFO Bean 'org.springframework.security.config.annotation.configuration.ObjectPostProcessorConfiguration' of type [org.springframework.security.config.annotation.configuration.ObjectPostProcessorConfiguration$$EnhancerBySpringCGLIB$$9d51bcef] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+
+2019-03-01 16:15:09,988 INFO Bean 'objectPostProcessor' of type [org.springframework.security.config.annotation.configuration.AutowireBeanFactoryObjectPostProcessor] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+
+2019-03-01 16:15:09,996 INFO Bean 'org.springframework.security.access.expression.method.DefaultMethodSecurityExpressionHandler@1530c739' of type [org.springframework.security.access.expression.method.DefaultMethodSecurityExpressionHandler] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+
+2019-03-01 16:15:09,999 INFO Bean 'org.springframework.security.config.annotation.method.configuration.GlobalMethodSecurityConfiguration' of type [org.springframework.security.config.annotation.method.configuration.GlobalMethodSecurityConfiguration$$EnhancerBySpringCGLIB$$c2265fa1] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+
+2019-03-01 16:15:10,008 INFO Bean 'methodSecurityMetadataSource' of type [org.springframework.security.access.method.DelegatingMethodSecurityMetadataSource] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+
+2019-03-01 16:15:11,170 INFO Tomcat initialized with port(s): 8848 (http)
+
+2019-03-01 16:15:11,257 INFO Starting service [Tomcat]
+
+2019-03-01 16:15:11,258 INFO Starting Servlet Engine: Apache Tomcat/9.0.13
+
+2019-03-01 16:15:11,283 INFO The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: [D:\Develop\Java\jdk1.8.0_144\bin;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;D:\Develop\Python\Python37-32\Scripts\;D:\Develop\Python\Python37-32\;C:\Program Files (x86)\Intel\iCLS Client\;C:\Program Files\Intel\iCLS Client\;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files (x86)\Skype\Phone\;D:\Program files\Java\jdk1.8.0_144\bin;D:\Develop\apache-maven-3.3.9\bin;C:\Program Files\MySQL\MySQL Server 5.6\bin;D:\Program Files\Git\cmd;D:\Develop\gradle\gradle-4.5\bin;D:\Program files\MySQL\mysql-5.7.21-winx64\bin;D:\Program files\MongoDB\Server\3.6\bin;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files (x86)\Microsoft VS Code\bin;D:\Develop\Go\bin;C:\Program Files\Intel\WiFi\bin\;C:\Program Files\Common Files\Intel\WirelessCommon\;C:\Program Files (x86)\Windows Kits\8.1\Windows Performance Toolkit\;D:\Develop\nodejs\;C:\Users\eryeer\AppData\Local\Microsoft\WindowsApps;;C:\Program Files (x86)\Microsoft VS Code\bin;C:\Users\eryeer\go\bin;C:\Users\eryeer\AppData\Roaming\npm;D:\Program Files\JetBrains\WebStorm 2018.3.3\bin;;.]
+
+2019-03-01 16:15:11,442 INFO Initializing Spring embedded WebApplicationContext
+
+2019-03-01 16:15:11,443 INFO Root WebApplicationContext: initialization completed in 5059 ms
+
+2019-03-01 16:15:14,297 INFO Autowired annotation is not supported on static fields: static org.springframework.context.ApplicationContext com.alibaba.nacos.naming.boot.SpringContext.context
+
+2019-03-01 16:15:14,705 INFO Initializing ExecutorService 'applicationTaskExecutor'
+
+2019-03-01 16:15:14,950 INFO Adding welcome page: class path resource [static/index.html]
+
+2019-03-01 16:15:15,591 INFO Creating filter chain: Ant [pattern='/'], []
+
+2019-03-01 16:15:15,593 INFO Creating filter chain: Ant [pattern='/**/*.css'], []
+
+2019-03-01 16:15:15,596 INFO Creating filter chain: Ant [pattern='/**/*.js'], []
+
+2019-03-01 16:15:15,597 INFO Creating filter chain: Ant [pattern='/**/*.html'], []
+
+2019-03-01 16:15:15,598 INFO Creating filter chain: Ant [pattern='/**/*.map'], []
+
+2019-03-01 16:15:15,599 INFO Creating filter chain: Ant [pattern='/**/*.svg'], []
+
+2019-03-01 16:15:15,603 INFO Creating filter chain: Ant [pattern='/**/*.png'], []
+
+2019-03-01 16:15:15,604 INFO Creating filter chain: Ant [pattern='/**/*.ico'], []
+
+2019-03-01 16:15:15,607 INFO Creating filter chain: Ant [pattern='/console-fe/public/**'], []
+
+2019-03-01 16:15:15,609 INFO Creating filter chain: Ant [pattern='/v1/auth/login'], []
+
+2019-03-01 16:15:15,610 INFO Creating filter chain: Ant [pattern='/v1/console/health'], []
+
+2019-03-01 16:15:15,614 INFO Creating filter chain: Ant [pattern='/v1/cs/**'], []
+
+2019-03-01 16:15:15,615 INFO Creating filter chain: Ant [pattern='/v1/ns/**'], []
+
+2019-03-01 16:15:15,622 INFO Creating filter chain: Ant [pattern='/v1/cmdb/**'], []
+
+2019-03-01 16:15:15,630 INFO Creating filter chain: Ant [pattern='/actuator/**'], []
+
+2019-03-01 16:15:15,737 INFO Creating filter chain: any request, [org.springframework.security.web.context.request.async.WebAsyncManagerIntegrationFilter@67c2e933, org.springframework.security.web.context.SecurityContextPersistenceFilter@31d0e481, org.springframework.security.web.header.HeaderWriterFilter@112f364d, org.springframework.security.web.authentication.logout.LogoutFilter@3bcbb589, com.alibaba.nacos.console.filter.JwtAuthenticationTokenFilter@41dd05a, org.springframework.security.web.savedrequest.RequestCacheAwareFilter@241e8ea6, org.springframework.security.web.servletapi.SecurityContextHolderAwareRequestFilter@4dc8caa7, org.springframework.security.web.authentication.AnonymousAuthenticationFilter@613a8ee1, org.springframework.security.web.session.SessionManagementFilter@6d9f7a80, org.springframework.security.web.access.ExceptionTranslationFilter@5a9d6f02, org.springframework.security.web.access.intercept.FilterSecurityInterceptor@7ca33c24]
+
+2019-03-01 16:15:15,810 INFO Exposing 2 endpoint(s) beneath base path '/actuator'
+
+2019-03-01 16:15:15,871 INFO Initializing ExecutorService 'taskScheduler'
+
+2019-03-01 16:15:16,053 INFO Tomcat started on port(s): 8848 (http) with context path '/nacos'
+
+2019-03-01 16:15:16,173 INFO Started Nacos in 12.313 seconds (JVM running for 13.965)
+
+2019-03-01 16:15:16,173 INFO Nacos Log files: C:\Users\eryeer\Desktop\git\nacos\demo\nacos-server-0.8.0\nacos\/logs/
+
+2019-03-01 16:15:16,182 INFO Nacos Conf files: C:\Users\eryeer\Desktop\git\nacos\demo\nacos-server-0.8.0\nacos\/conf/
+
+2019-03-01 16:15:16,183 INFO Nacos Data files: C:\Users\eryeer\Desktop\git\nacos\demo\nacos-server-0.8.0\nacos\/data/
+
+2019-03-01 16:15:16,202 INFO Nacos started successfully in stand alone mode.
+
+2019-03-01 16:15:16,371 INFO Initializing Spring DispatcherServlet 'dispatcherServlet'
+
+2019-03-01 16:15:16,371 INFO Initializing Servlet 'dispatcherServlet'
+
+2019-03-01 16:15:16,389 INFO Completed initialization in 17 ms
+
+2019-03-01 16:15:59,066 INFO Expired JWT token.
+
+2019-03-01 16:15:59,087 ERROR Responding with unauthorized error. Message - Full authentication is required to access this resource
+
+2019-03-01 16:20:33,182 ERROR Responding with unauthorized error. Message - Full authentication is required to access this resource
+
+2019-03-01 16:20:50,331 ERROR Responding with unauthorized error. Message - Full authentication is required to access this resource
+
+2019-03-01 16:20:59,685 ERROR Responding with unauthorized error. Message - Full authentication is required to access this resource
+
+2019-03-01 16:21:54,509 INFO Starting Nacos v0.8.0 on LAPTOP-KCF0F8AO with PID 38068 (C:\Users\eryeer\Desktop\git\nacos\demo\nacos-server-0.8.0\nacos\target\nacos-server.jar started by eryeer in C:\Users\eryeer\Desktop\git\nacos\demo\nacos-server-0.8.0\nacos\bin)
+
+2019-03-01 16:21:54,514 INFO The following profiles are active: standalone
+
+2019-03-01 16:21:57,867 INFO Bean 'org.springframework.security.config.annotation.configuration.ObjectPostProcessorConfiguration' of type [org.springframework.security.config.annotation.configuration.ObjectPostProcessorConfiguration$$EnhancerBySpringCGLIB$$6c162792] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+
+2019-03-01 16:21:58,027 INFO Bean 'objectPostProcessor' of type [org.springframework.security.config.annotation.configuration.AutowireBeanFactoryObjectPostProcessor] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+
+2019-03-01 16:21:58,034 INFO Bean 'org.springframework.security.access.expression.method.DefaultMethodSecurityExpressionHandler@2a7f1f10' of type [org.springframework.security.access.expression.method.DefaultMethodSecurityExpressionHandler] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+
+2019-03-01 16:21:58,035 INFO Bean 'org.springframework.security.config.annotation.method.configuration.GlobalMethodSecurityConfiguration' of type [org.springframework.security.config.annotation.method.configuration.GlobalMethodSecurityConfiguration$$EnhancerBySpringCGLIB$$90eaca44] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+
+2019-03-01 16:21:58,046 INFO Bean 'methodSecurityMetadataSource' of type [org.springframework.security.access.method.DelegatingMethodSecurityMetadataSource] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+
+2019-03-01 16:21:59,089 INFO Tomcat initialized with port(s): 8848 (http)
+
+2019-03-01 16:21:59,137 INFO Starting service [Tomcat]
+
+2019-03-01 16:21:59,137 INFO Starting Servlet Engine: Apache Tomcat/9.0.13
+
+2019-03-01 16:21:59,156 INFO The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: [D:\Develop\Java\jdk1.8.0_144\bin;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;D:\Develop\Python\Python37-32\Scripts\;D:\Develop\Python\Python37-32\;C:\Program Files (x86)\Intel\iCLS Client\;C:\Program Files\Intel\iCLS Client\;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files (x86)\Skype\Phone\;D:\Program files\Java\jdk1.8.0_144\bin;D:\Develop\apache-maven-3.3.9\bin;C:\Program Files\MySQL\MySQL Server 5.6\bin;D:\Program Files\Git\cmd;D:\Develop\gradle\gradle-4.5\bin;D:\Program files\MySQL\mysql-5.7.21-winx64\bin;D:\Program files\MongoDB\Server\3.6\bin;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files (x86)\Microsoft VS Code\bin;D:\Develop\Go\bin;C:\Program Files\Intel\WiFi\bin\;C:\Program Files\Common Files\Intel\WirelessCommon\;C:\Program Files (x86)\Windows Kits\8.1\Windows Performance Toolkit\;D:\Develop\nodejs\;C:\Users\eryeer\AppData\Local\Microsoft\WindowsApps;;C:\Program Files (x86)\Microsoft VS Code\bin;C:\Users\eryeer\go\bin;C:\Users\eryeer\AppData\Roaming\npm;D:\Program Files\JetBrains\WebStorm 2018.3.3\bin;;.]
+
+2019-03-01 16:21:59,304 INFO Initializing Spring embedded WebApplicationContext
+
+2019-03-01 16:21:59,306 INFO Root WebApplicationContext: initialization completed in 4644 ms
+
+2019-03-01 16:22:01,998 INFO Autowired annotation is not supported on static fields: static org.springframework.context.ApplicationContext com.alibaba.nacos.naming.boot.SpringContext.context
+
+2019-03-01 16:22:02,424 INFO Initializing ExecutorService 'applicationTaskExecutor'
+
+2019-03-01 16:22:02,684 INFO Adding welcome page: class path resource [static/index.html]
+
+2019-03-01 16:22:03,192 INFO Creating filter chain: Ant [pattern='/'], []
+
+2019-03-01 16:22:03,193 INFO Creating filter chain: Ant [pattern='/**/*.css'], []
+
+2019-03-01 16:22:03,198 INFO Creating filter chain: Ant [pattern='/**/*.js'], []
+
+2019-03-01 16:22:03,199 INFO Creating filter chain: Ant [pattern='/**/*.html'], []
+
+2019-03-01 16:22:03,201 INFO Creating filter chain: Ant [pattern='/**/*.map'], []
+
+2019-03-01 16:22:03,204 INFO Creating filter chain: Ant [pattern='/**/*.svg'], []
+
+2019-03-01 16:22:03,205 INFO Creating filter chain: Ant [pattern='/**/*.png'], []
+
+2019-03-01 16:22:03,206 INFO Creating filter chain: Ant [pattern='/**/*.ico'], []
+
+2019-03-01 16:22:03,215 INFO Creating filter chain: Ant [pattern='/console-fe/public/**'], []
+
+2019-03-01 16:22:03,216 INFO Creating filter chain: Ant [pattern='/v1/auth/login'], []
+
+2019-03-01 16:22:03,217 INFO Creating filter chain: Ant [pattern='/v1/console/health'], []
+
+2019-03-01 16:22:03,219 INFO Creating filter chain: Ant [pattern='/v1/cs/**'], []
+
+2019-03-01 16:22:03,220 INFO Creating filter chain: Ant [pattern='/v1/ns/**'], []
+
+2019-03-01 16:22:03,221 INFO Creating filter chain: Ant [pattern='/v1/cmdb/**'], []
+
+2019-03-01 16:22:03,233 INFO Creating filter chain: Ant [pattern='/actuator/**'], []
+
+2019-03-01 16:22:03,308 INFO Creating filter chain: any request, [org.springframework.security.web.context.request.async.WebAsyncManagerIntegrationFilter@2807bdeb, org.springframework.security.web.context.SecurityContextPersistenceFilter@3016fd5e, org.springframework.security.web.header.HeaderWriterFilter@4dc8caa7, org.springframework.security.web.authentication.logout.LogoutFilter@42463763, com.alibaba.nacos.console.filter.JwtAuthenticationTokenFilter@72c28d64, org.springframework.security.web.savedrequest.RequestCacheAwareFilter@53d102a2, org.springframework.security.web.servletapi.SecurityContextHolderAwareRequestFilter@5aac4250, org.springframework.security.web.authentication.AnonymousAuthenticationFilter@6492fab5, org.springframework.security.web.session.SessionManagementFilter@3bcbb589, org.springframework.security.web.access.ExceptionTranslationFilter@542e560f, org.springframework.security.web.access.intercept.FilterSecurityInterceptor@6ebf0f36]
+
+2019-03-01 16:22:03,374 INFO Exposing 16 endpoint(s) beneath base path '/actuator'
+
+2019-03-01 16:22:03,440 INFO Initializing ExecutorService 'taskScheduler'
+
+2019-03-01 16:22:03,642 INFO Tomcat started on port(s): 8848 (http) with context path '/nacos'
+
+2019-03-01 16:22:03,719 INFO Started Nacos in 11.277 seconds (JVM running for 12.596)
+
+2019-03-01 16:22:03,719 INFO Nacos Log files: C:\Users\eryeer\Desktop\git\nacos\demo\nacos-server-0.8.0\nacos\/logs/
+
+2019-03-01 16:22:03,719 INFO Nacos Conf files: C:\Users\eryeer\Desktop\git\nacos\demo\nacos-server-0.8.0\nacos\/conf/
+
+2019-03-01 16:22:03,721 INFO Nacos Data files: C:\Users\eryeer\Desktop\git\nacos\demo\nacos-server-0.8.0\nacos\/data/
+
+2019-03-01 16:22:03,724 INFO Nacos started successfully in stand alone mode.
+
+2019-03-01 16:22:03,903 INFO Initializing Spring DispatcherServlet 'dispatcherServlet'
+
+2019-03-01 16:22:03,903 INFO Initializing Servlet 'dispatcherServlet'
+
+2019-03-01 16:22:03,917 INFO Completed initialization in 14 ms
+
+2019-03-01 16:24:42,340 INFO Starting Nacos v0.8.0 on LAPTOP-KCF0F8AO with PID 37076 (C:\Users\eryeer\Desktop\git\nacos\demo\nacos-server-0.8.0\nacos\target\nacos-server.jar started by eryeer in C:\Users\eryeer\Desktop\git\nacos\demo\nacos-server-0.8.0\nacos\bin)
+
+2019-03-01 16:24:42,362 INFO The following profiles are active: standalone
+
+2019-03-01 16:24:47,576 INFO Bean 'org.springframework.security.config.annotation.configuration.ObjectPostProcessorConfiguration' of type [org.springframework.security.config.annotation.configuration.ObjectPostProcessorConfiguration$$EnhancerBySpringCGLIB$$62102eb] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+
+2019-03-01 16:24:47,768 INFO Bean 'objectPostProcessor' of type [org.springframework.security.config.annotation.configuration.AutowireBeanFactoryObjectPostProcessor] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+
+2019-03-01 16:24:47,774 INFO Bean 'org.springframework.security.access.expression.method.DefaultMethodSecurityExpressionHandler@26d9b808' of type [org.springframework.security.access.expression.method.DefaultMethodSecurityExpressionHandler] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+
+2019-03-01 16:24:47,779 INFO Bean 'org.springframework.security.config.annotation.method.configuration.GlobalMethodSecurityConfiguration' of type [org.springframework.security.config.annotation.method.configuration.GlobalMethodSecurityConfiguration$$EnhancerBySpringCGLIB$$2af5a59d] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+
+2019-03-01 16:24:47,791 INFO Bean 'methodSecurityMetadataSource' of type [org.springframework.security.access.method.DelegatingMethodSecurityMetadataSource] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+
+2019-03-01 16:24:49,454 INFO Tomcat initialized with port(s): 8848 (http)
+
+2019-03-01 16:24:49,521 INFO Starting service [Tomcat]
+
+2019-03-01 16:24:49,521 INFO Starting Servlet Engine: Apache Tomcat/9.0.13
+
+2019-03-01 16:24:49,548 INFO The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: [D:\Develop\Java\jdk1.8.0_144\bin;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;D:\Develop\Python\Python37-32\Scripts\;D:\Develop\Python\Python37-32\;C:\Program Files (x86)\Intel\iCLS Client\;C:\Program Files\Intel\iCLS Client\;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files (x86)\Skype\Phone\;D:\Program files\Java\jdk1.8.0_144\bin;D:\Develop\apache-maven-3.3.9\bin;C:\Program Files\MySQL\MySQL Server 5.6\bin;D:\Program Files\Git\cmd;D:\Develop\gradle\gradle-4.5\bin;D:\Program files\MySQL\mysql-5.7.21-winx64\bin;D:\Program files\MongoDB\Server\3.6\bin;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files (x86)\Microsoft VS Code\bin;D:\Develop\Go\bin;C:\Program Files\Intel\WiFi\bin\;C:\Program Files\Common Files\Intel\WirelessCommon\;C:\Program Files (x86)\Windows Kits\8.1\Windows Performance Toolkit\;D:\Develop\nodejs\;C:\Users\eryeer\AppData\Local\Microsoft\WindowsApps;;C:\Program Files (x86)\Microsoft VS Code\bin;C:\Users\eryeer\go\bin;C:\Users\eryeer\AppData\Roaming\npm;D:\Program Files\JetBrains\WebStorm 2018.3.3\bin;;.]
+
+2019-03-01 16:24:49,782 INFO Initializing Spring embedded WebApplicationContext
+
+2019-03-01 16:24:49,786 INFO Root WebApplicationContext: initialization completed in 7186 ms
+
+2019-03-01 16:24:53,489 INFO Autowired annotation is not supported on static fields: static org.springframework.context.ApplicationContext com.alibaba.nacos.naming.boot.SpringContext.context
+
+2019-03-01 16:24:53,964 INFO Initializing ExecutorService 'applicationTaskExecutor'
+
+2019-03-01 16:24:54,456 INFO Adding welcome page: class path resource [static/index.html]
+
+2019-03-01 16:24:55,686 INFO Creating filter chain: Ant [pattern='/'], []
+
+2019-03-01 16:24:55,710 INFO Creating filter chain: Ant [pattern='/**/*.css'], []
+
+2019-03-01 16:24:55,714 INFO Creating filter chain: Ant [pattern='/**/*.js'], []
+
+2019-03-01 16:24:55,715 INFO Creating filter chain: Ant [pattern='/**/*.html'], []
+
+2019-03-01 16:24:55,719 INFO Creating filter chain: Ant [pattern='/**/*.map'], []
+
+2019-03-01 16:24:55,728 INFO Creating filter chain: Ant [pattern='/**/*.svg'], []
+
+2019-03-01 16:24:55,731 INFO Creating filter chain: Ant [pattern='/**/*.png'], []
+
+2019-03-01 16:24:55,732 INFO Creating filter chain: Ant [pattern='/**/*.ico'], []
+
+2019-03-01 16:24:55,736 INFO Creating filter chain: Ant [pattern='/console-fe/public/**'], []
+
+2019-03-01 16:24:55,740 INFO Creating filter chain: Ant [pattern='/v1/auth/login'], []
+
+2019-03-01 16:24:55,744 INFO Creating filter chain: Ant [pattern='/v1/console/health'], []
+
+2019-03-01 16:24:55,747 INFO Creating filter chain: Ant [pattern='/v1/cs/**'], []
+
+2019-03-01 16:24:55,752 INFO Creating filter chain: Ant [pattern='/v1/ns/**'], []
+
+2019-03-01 16:24:55,752 INFO Creating filter chain: Ant [pattern='/v1/cmdb/**'], []
+
+2019-03-01 16:24:55,754 INFO Creating filter chain: Ant [pattern='/actuator/**'], []
+
+2019-03-01 16:24:55,820 INFO Creating filter chain: any request, [org.springframework.security.web.context.request.async.WebAsyncManagerIntegrationFilter@6492fab5, org.springframework.security.web.context.SecurityContextPersistenceFilter@53d102a2, org.springframework.security.web.header.HeaderWriterFilter@3bcbb589, org.springframework.security.web.authentication.logout.LogoutFilter@61f05988, com.alibaba.nacos.console.filter.JwtAuthenticationTokenFilter@2c5529ab, org.springframework.security.web.savedrequest.RequestCacheAwareFilter@6b3e12b5, org.springframework.security.web.servletapi.SecurityContextHolderAwareRequestFilter@42463763, org.springframework.security.web.authentication.AnonymousAuthenticationFilter@39a8312f, org.springframework.security.web.session.SessionManagementFilter@3016fd5e, org.springframework.security.web.access.ExceptionTranslationFilter@4dc8caa7, org.springframework.security.web.access.intercept.FilterSecurityInterceptor@2807bdeb]
+
+2019-03-01 16:24:55,882 INFO Exposing 6 endpoint(s) beneath base path '/actuator'
+
+2019-03-01 16:24:55,937 INFO Initializing ExecutorService 'taskScheduler'
+
+2019-03-01 16:24:56,208 INFO Tomcat started on port(s): 8848 (http) with context path '/nacos'
+
+2019-03-01 16:24:56,440 INFO Started Nacos in 16.652 seconds (JVM running for 17.941)
+
+2019-03-01 16:24:56,442 INFO Initializing Spring DispatcherServlet 'dispatcherServlet'
+
+2019-03-01 16:24:56,441 INFO Nacos Log files: C:\Users\eryeer\Desktop\git\nacos\demo\nacos-server-0.8.0\nacos\/logs/
+
+2019-03-01 16:24:56,447 INFO Nacos Conf files: C:\Users\eryeer\Desktop\git\nacos\demo\nacos-server-0.8.0\nacos\/conf/
+
+2019-03-01 16:24:56,449 INFO Nacos Data files: C:\Users\eryeer\Desktop\git\nacos\demo\nacos-server-0.8.0\nacos\/data/
+
+2019-03-01 16:24:56,442 INFO Initializing Servlet 'dispatcherServlet'
+
+2019-03-01 16:24:56,451 INFO Nacos started successfully in stand alone mode.
+
+2019-03-01 16:24:56,490 INFO Completed initialization in 38 ms
+
+2019-03-01 16:34:53,269 INFO [capacityManagement] start correct usage
+
+2019-03-01 16:34:53,286 INFO [capacityManagement] end correct usage, cost: 0s
+
+2019-03-01 16:34:53,581 WARN clearConfigHistory start
+
+2019-03-01 16:44:53,288 INFO [capacityManagement] start correct usage
+
+2019-03-01 16:44:53,290 INFO [capacityManagement] end correct usage, cost: 0s
+
+2019-03-01 16:44:53,594 WARN clearConfigHistory start
+
+2019-03-01 16:54:53,293 INFO [capacityManagement] start correct usage
+
+2019-03-01 16:54:53,295 INFO [capacityManagement] end correct usage, cost: 0s
+
+2019-03-01 16:54:53,597 WARN clearConfigHistory start
+
+2019-03-01 17:04:53,297 INFO [capacityManagement] start correct usage
+
+2019-03-01 17:04:53,300 INFO [capacityManagement] end correct usage, cost: 0s
+
+2019-03-01 17:04:53,600 WARN clearConfigHistory start
+
+2019-03-01 17:14:53,304 INFO [capacityManagement] start correct usage
+
+2019-03-01 17:14:53,308 INFO [capacityManagement] end correct usage, cost: 0s
+
+2019-03-01 17:14:53,603 WARN clearConfigHistory start
+
+2019-03-01 17:24:53,310 INFO [capacityManagement] start correct usage
+
+2019-03-01 17:24:53,313 INFO [capacityManagement] end correct usage, cost: 0s
+
+2019-03-01 17:24:53,607 WARN clearConfigHistory start
+
+2019-03-01 17:34:53,315 INFO [capacityManagement] start correct usage
+
+2019-03-01 17:34:53,318 INFO [capacityManagement] end correct usage, cost: 0s
+
+2019-03-01 17:34:53,609 WARN clearConfigHistory start
+
+2019-03-01 17:43:24,965 INFO Expired JWT token.
+
+2019-03-01 17:43:24,991 ERROR Responding with unauthorized error. Message - Full authentication is required to access this resource
+
+2019-03-01 17:44:53,319 INFO [capacityManagement] start correct usage
+
+2019-03-01 17:44:53,322 INFO [capacityManagement] end correct usage, cost: 0s
+
+2019-03-01 17:44:53,619 WARN clearConfigHistory start
+
+2019-03-01 17:54:53,324 INFO [capacityManagement] start correct usage
+
+2019-03-01 17:54:53,326 INFO [capacityManagement] end correct usage, cost: 0s
+
+2019-03-01 17:54:53,621 WARN clearConfigHistory start
+

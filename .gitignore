@@ -13,23 +13,10 @@ webapps/
 out/
 
 !doc/
-!client/
-!qogirThirdAPI/
-!qogirBackGateway/
-!qogirBase/
-!qogirCart/
-!qogirConfig/
-!qogirEureka/
-!qogirFrontGateway/
-!qogirLog/
-!qogirMiddle/
-!qogirOrder/
-!qogirSearch/
-!qogirUser/
-!qogirScheduler/
-!qogirActivity/
-!qogirBackBusiness/
-!qogirFrontBusiness/
+!nacos-server-0.8.0/
+!microservice-iv/
+!microservice-account/
+
 
 !src/
 !lib/

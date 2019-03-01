@@ -1,0 +1,66 @@
+buildscript {
+    ext {
+        springBootVersion = '2.0.4.RELEASE'
+//        springBootVersion = '1.5.9.RELEASE'
+    }
+    repositories {
+        maven {url "${repo_path}"}
+        mavenLocal()
+        mavenCentral()
+    }
+    dependencies {
+        classpath "io.spring.gradle:dependency-management-plugin:1.0.4.RELEASE"
+        classpath("org.springframework.boot:spring-boot-gradle-plugin:${springBootVersion}")
+    }
+}
+
+
+apply plugin: 'java'
+apply plugin: "io.spring.dependency-management"
+apply plugin: 'org.springframework.boot'
+apply plugin: 'idea'
+
+group 'com.wxbc.mi'
+version '1.0-SN'
+
+sourceCompatibility = 1.8
+targetCompatibility = 1.8
+
+repositories {
+    mavenLocal()
+    mavenCentral()
+}
+
+dependencyManagement {
+    imports {
+        mavenBom 'org.springframework.cloud:spring-cloud-dependencies:Finchley.RELEASE'
+//        mavenBom 'org.springframework.cloud:spring-cloud-dependencies:Dalston.SR3'
+    }
+}
+
+dependencies {
+
+    compile 'org.springframework.cloud:spring-cloud-starter-netflix-hystrix'
+    compile 'org.springframework.cloud:spring-cloud-starter-openfeign'
+//    compile 'org.springframework.cloud:spring-cloud-starter-hystrix'
+//    compile 'org.springframework.cloud:spring-cloud-starter-feign'
+    implementation('org.springframework.cloud:spring-cloud-starter-alibaba-nacos-config:0.2.1.RELEASE')
+    implementation('org.springframework.cloud:spring-cloud-starter-alibaba-nacos-discovery:0.2.1.RELEASE')
+    compile 'org.springframework.boot:spring-boot-starter-actuator'
+
+    compile 'org.springframework.boot:spring-boot-starter-web'
+    compile 'org.springframework.boot:spring-boot-starter'
+    compile 'org.springframework.boot:spring-boot-starter-aop'
+    compile 'javax.servlet:javax.servlet-api'
+    compile 'io.springfox:springfox-swagger2:2.7.0'
+    compile 'io.springfox:springfox-swagger-ui:2.7.0'
+    compile 'org.apache.commons:commons-lang3:3.6'
+    compile 'com.squareup.okhttp3:okhttp:3.9.0'
+    compileOnly 'org.projectlombok:lombok:1.16.18'
+    compile 'org.springframework.boot:spring-boot-starter-log4j2'
+    testCompile('org.springframework.boot:spring-boot-starter-test')
+
+}
+configurations{
+    all*.exclude module : 'spring-boot-starter-logging'
+}

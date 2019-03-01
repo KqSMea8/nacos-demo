@@ -1,0 +1,56 @@
+2019-02-28 19:00:25,720 INFO com.alibaba.nacos.naming.core.VirtualClusterDomain@2fa220d9 {POS} {IP-UPDATE} [172.25.1.113:8181:unknown_1.0_true_false_DEFAULT], action: add
+
+2019-02-28 19:00:25,725 INFO microservice-account {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [172.25.1.113:8181:unknown_1.0_true_false_DEFAULT]
+
+2019-02-28 19:00:25,739 INFO [IP-UPDATED] dom: microservice-account, ips: 172.25.1.113:8181_true,
+
+2019-02-28 19:03:25,748 INFO {POS} {IP-DISABLED} valid: 172.25.1.113:8181@DEFAULT, region: unknown, msg: client timeout after 15000, last beat: 1551351790215
+
+2019-02-28 19:03:40,946 INFO com.alibaba.nacos.naming.core.VirtualClusterDomain@2fa220d9 {POS} {IP-UPDATE} [172.25.1.113:8181:unknown_1.0_true_false_DEFAULT], action: remove
+
+2019-02-28 19:03:40,946 INFO dom: microservice-account {POS} {IP-REMV} new: 172.25.1.113:8181_1.0_DEFAULT operatorIP: unknown
+
+2019-02-28 19:03:40,947 INFO microservice-account {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [172.25.1.113:8181:unknown_1.0_false_false_DEFAULT]
+
+2019-02-28 19:03:40,947 INFO [IP-UPDATED] dom: microservice-account, ips: 
+
+2019-02-28 19:07:31,465 INFO com.alibaba.nacos.naming.core.VirtualClusterDomain@2fa220d9 {POS} {IP-UPDATE} [172.25.1.113:8181:unknown_1.0_true_false_DEFAULT], action: add
+
+2019-02-28 19:07:31,466 INFO microservice-account {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [172.25.1.113:8181:unknown_1.0_true_false_DEFAULT]
+
+2019-02-28 19:07:31,466 INFO [IP-UPDATED] dom: microservice-account, ips: 172.25.1.113:8181_true,
+
+2019-02-28 19:11:45,094 INFO {POS} {IP-DISABLED} valid: 172.25.1.113:8181@DEFAULT, region: unknown, msg: client timeout after 15000, last beat: 1551352286351
+
+2019-02-28 19:11:50,396 INFO com.alibaba.nacos.naming.core.VirtualClusterDomain@2fa220d9 {POS} {IP-UPDATE} [172.25.1.113:8181:unknown_1.0_true_false_DEFAULT], action: add
+
+2019-02-28 19:11:50,396 INFO [IP-UPDATED] dom: microservice-account, ips: 172.25.1.113:8181_false,
+
+2019-02-28 19:11:55,276 INFO dom: microservice-account {POS} {IP-ENABLED} valid: 172.25.1.113:8181@DEFAULT, region: unknown, msg: client beat ok
+
+2019-02-28 19:15:00,186 INFO {POS} {IP-DISABLED} valid: 172.25.1.113:8181@DEFAULT, region: unknown, msg: client timeout after 15000, last beat: 1551352480209
+
+2019-02-28 19:15:10,233 INFO com.alibaba.nacos.naming.core.VirtualClusterDomain@2fa220d9 {POS} {IP-UPDATE} [172.25.1.113:8181:unknown_1.0_true_false_DEFAULT], action: remove
+
+2019-02-28 19:15:10,233 INFO dom: microservice-account {POS} {IP-REMV} new: 172.25.1.113:8181_1.0_DEFAULT operatorIP: unknown
+
+2019-02-28 19:15:10,233 INFO microservice-account {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [172.25.1.113:8181:unknown_1.0_false_false_DEFAULT]
+
+2019-02-28 19:15:10,233 INFO [IP-UPDATED] dom: microservice-account, ips: 
+
+2019-02-28 19:17:35,069 INFO com.alibaba.nacos.naming.core.VirtualClusterDomain@2fa220d9 {POS} {IP-UPDATE} [172.25.1.113:8181:unknown_1.0_true_false_DEFAULT], action: add
+
+2019-02-28 19:17:35,070 INFO microservice-account {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [172.25.1.113:8181:unknown_1.0_true_false_DEFAULT]
+
+2019-02-28 19:17:35,070 INFO [IP-UPDATED] dom: microservice-account, ips: 172.25.1.113:8181_true,
+
+2019-02-28 19:17:55,474 INFO {POS} {IP-DISABLED} valid: 172.25.1.113:8181@DEFAULT, region: unknown, msg: client timeout after 15000, last beat: 1551352659960
+
+2019-02-28 19:18:04,266 INFO com.alibaba.nacos.naming.core.VirtualClusterDomain@2fa220d9 {POS} {IP-UPDATE} [172.25.1.113:8181:unknown_1.0_true_false_DEFAULT], action: add
+
+2019-02-28 19:18:04,267 INFO [IP-UPDATED] dom: microservice-account, ips: 172.25.1.113:8181_false,
+
+2019-02-28 19:18:09,151 INFO dom: microservice-account {POS} {IP-ENABLED} valid: 172.25.1.113:8181@DEFAULT, region: unknown, msg: client beat ok
+
+2019-02-28 19:19:00,486 INFO {POS} {IP-DISABLED} valid: 172.25.1.113:8181@DEFAULT, region: unknown, msg: client timeout after 15000, last beat: 1551352724141
+
